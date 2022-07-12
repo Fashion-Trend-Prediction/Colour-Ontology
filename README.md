@@ -15,7 +15,7 @@
   <p align="center">
     An awesome ontology model for colours in the fashion industry
     <br />
-    <a href="https://github.com/zishanqin/FTP---Colour-Ontology/index.html"><strong>Our formal website »</strong></a>
+    <a href="https://github.com/zishanqin/FTP---Colour-Ontology"><strong>Our formal website »</strong></a>
   </p>
 </div>
 
