@@ -15,7 +15,7 @@
   <p align="center">
     An awesome ontology model for colours in the fashion industry
     <br />
-    <a href="https://Fashion-Trend-Prediction.github.ioy"><strong>Our formal website »</strong></a>
+    <a href="https://Fashion-Trend-Prediction.github.io"><strong>Our formal website »</strong></a>
   </p>
 </div>
 
