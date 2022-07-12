@@ -14,7 +14,7 @@
                                                                    "Priscilla Kan John"@en ;
                                                dcterms:created "2022-07-04"^^xsd:date ;
                                                dcterms:creator "Taylor Qin"@en ;
-                                               dcterms:modified "2022-07-06T22:42:00"@en ;
+                                               dcterms:modified "2022-07-12T15:40:00"@en ;
                                                vann:preferredNamespacePrefix "ftp-colour"@en ;
                                                vann:preferredNamespaceUri "http://soco.cecs.anu.edu.au/onto/FTP/colour#"^^xsd:anyURI ;
                                                rdfs:comment "Fashion Trend Prediction (FTP) Colour Ontology"@en ;
@@ -122,8 +122,8 @@ vann:preferredNamespaceUri rdf:type owl:AnnotationProperty .
             rdfs:range xsd:float .
 
 
-###  http://soco.cecs.anu.edu.au/onto/FTP/colour#chinese_name
-:chinese_name rdf:type owl:DatatypeProperty ;
+###  http://soco.cecs.anu.edu.au/onto/FTP/colour#colour_group_name
+:colour_group_name rdf:type owl:DatatypeProperty ;
               rdfs:domain :ColourGroup ;
               rdfs:range xsd:string .
 
@@ -148,12 +148,6 @@ vann:preferredNamespaceUri rdf:type owl:AnnotationProperty .
 ###  http://soco.cecs.anu.edu.au/onto/FTP/colour#colour_name
 :colour_name rdf:type owl:DatatypeProperty ;
              rdfs:domain :ColourName ;
-             rdfs:range xsd:string .
-
-
-###  http://soco.cecs.anu.edu.au/onto/FTP/colour#french_name
-:french_name rdf:type owl:DatatypeProperty ;
-             rdfs:domain :ColourGroup ;
              rdfs:range xsd:string .
 
 
@@ -190,12 +184,6 @@ vann:preferredNamespaceUri rdf:type owl:AnnotationProperty .
                                           ]
                                ]
                    ] .
-
-
-###  http://soco.cecs.anu.edu.au/onto/FTP/colour#spanish_name
-:spanish_name rdf:type owl:DatatypeProperty ;
-              rdfs:domain :ColourGroup ;
-              rdfs:range xsd:string .
 
 
 ###  http://soco.cecs.anu.edu.au/onto/FTP/colour#temperature
@@ -266,19 +254,9 @@ vann:preferredNamespaceUri rdf:type owl:AnnotationProperty .
                                owl:onClass :ColourGroup
                              ] ,
                              [ rdf:type owl:Restriction ;
-                               owl:onProperty :chinese_name ;
+                               owl:onProperty :colour_group_name ;
                                owl:minQualifiedCardinality "1"^^xsd:nonNegativeInteger ;
                                owl:onDataRange xsd:string
-                             ] ,
-                             [ rdf:type owl:Restriction ;
-                               owl:onProperty :french_name ;
-                               owl:minQualifiedCardinality "1"^^xsd:nonNegativeInteger ;
-                               owl:onDataRange owl:rational
-                             ] ,
-                             [ rdf:type owl:Restriction ;
-                               owl:onProperty :spanish_name ;
-                               owl:minQualifiedCardinality "1"^^xsd:nonNegativeInteger ;
-                               owl:onDataRange owl:rational
                              ] ,
                              [ rdf:type owl:Restriction ;
                                owl:onProperty :colour_group_type ;
@@ -512,15 +490,15 @@ vann:preferredNamespaceUri rdf:type owl:AnnotationProperty .
                            :Magenta_Group ;
              :triadicWith :Chartreuse_Group ,
                           :Rose_Group ;
-             :chinese_name "天蓝"@zh-hans ,
-                           "翠蓝"@zh-hans ,
-                           "蔚蓝"@zh-hans ;
              :colour_group_type "Tertiary"@en ;
-             :french_name "azure"@fr ,
-                          "azuré(e)"@fr ;
-             :spanish_name "azul celeste"@es ,
+			 :colour_group_name "天蓝"@zh-Hans ,
+                           "翠蓝"@zh-Hans ,
+                           "蔚蓝"@zh-Hans ,
+                           "azure"@fr ,
+                          "azuré(e)"@fr ,
+                           "azul celeste"@es ,
                            "azur"@es ,
-                           "azure"@es ,
+                           "azure"@en ,
                            "celeste"@es .
 
 
@@ -792,10 +770,11 @@ vann:preferredNamespaceUri rdf:type owl:AnnotationProperty .
                           :Spring_Green_Group ;
             :triadicWith :Green_Group ,
                          :Red_Group ;
-            :chinese_name "蓝"@zh-hans ;
             :colour_group_type "Primary"@en ;
-            :french_name "bleu(e)"@fr ;
-            :spanish_name "azul"@es .
+			:colour_group_name "蓝"@zh-Hans ,
+                           "bleu(e)"@fr ,
+						   "blue"@en ,
+                           "azul"@es .
 
 
 ###  http://soco.cecs.anu.edu.au/onto/FTP/colour#Blue_Heather_Sewguide
@@ -1434,11 +1413,12 @@ vann:preferredNamespaceUri rdf:type owl:AnnotationProperty .
                                 :Red_Group ;
                   :triadicWith :Azure_Group ,
                                :Rose_Group ;
-                  :chinese_name "查特酒"@zh-hans ,
-                                "黄绿"@zh-hans ;
                   :colour_group_type "Tertiary"@en ;
-                  :french_name "chartreuse"@fr ;
-                  :spanish_name "chartreuse"@es .
+				  :colour_group_name "查特酒"@zh-Hans ,
+                                "黄绿"@zh-Hans ,
+                           "chartreuse"@fr ,
+						   "chartreuse"@en ,
+                           "chartreuse"@es .
 
 
 ###  http://soco.cecs.anu.edu.au/onto/FTP/colour#Chartreuse_Sewguide
@@ -1749,12 +1729,11 @@ vann:preferredNamespaceUri rdf:type owl:AnnotationProperty .
                           :Violet_Group ;
             :triadicWith :Magenta_Group ,
                          :Yellow_Group ;
-            :chinese_name "青"@zh-hans ;
             :colour_group_type "Tertiary"@en ;
-            :spanish_name "cianuro"@es ,
-                          "cyanide"@es ,
-                          "cyanide"@fr ,
-                          "cyanure"@fr .
+			:colour_group_name "青"@zh-Hans ,
+                          "cian"@es ,
+                          "cyan"@en ,
+                          "cyan"@fr .
 
 
 ###  http://soco.cecs.anu.edu.au/onto/FTP/colour#Cyclamen_Sewguide
@@ -2889,10 +2868,10 @@ vann:preferredNamespaceUri rdf:type owl:AnnotationProperty .
                            :Orange_Group ;
              :triadicWith :Blue_Group ,
                           :Red_Group ;
-             :chinese_name "绿"@zh-hans ;
              :colour_group_type "Secondary"@en ;
-             :french_name "vert"@fr ;
-             :spanish_name "green"@es ,
+			 :colour_group_name "绿"@zh-Hans ,
+                           "vert"@fr ,
+                           "green"@en ,
                            "verde"@es .
 
 
@@ -3684,11 +3663,12 @@ vann:preferredNamespaceUri rdf:type owl:AnnotationProperty .
                              :Orange_Group ;
                :triadicWith :Cyan_Group ,
                             :Yellow_Group ;
-               :chinese_name "品红"@zh-hans ,
-                             "洋红"@zh-hans ;
                :colour_group_type "Tertiary"@en ;
-               :french_name "meganta"@fr ;
-               :spanish_name "magenta"@de .
+			   :colour_group_name "品红"@zh-Hans ,
+                             "洋红"@zh-Hans ,
+                           "meganta"@fr ,
+						   "magenta"@en ,
+                           "magenta"@es .
 
 
 ###  http://soco.cecs.anu.edu.au/onto/FTP/colour#Magenta_Sewguide
@@ -4287,12 +4267,12 @@ vann:preferredNamespaceUri rdf:type owl:AnnotationProperty .
                             :Magenta_Group ;
               :triadicWith :Spring_Green_Group ,
                            :Violet_Group ;
-              :chinese_name "橘红"@zh-hans ,
-                            "橙"@zh-hans ;
               :colour_group_type "Secondary"@en ;
-              :french_name "orange"@fr ;
-              :spanish_name "naranja"@es ,
-                            "orange"@es .
+			  :colour_group_name "橘红"@zh-Hans ,
+                            "橙"@zh-Hans ,
+                           "orange"@fr ,
+                           "naranja"@es ,
+                           "orange"@en .
 
 
 ###  http://soco.cecs.anu.edu.au/onto/FTP/colour#Orange_Red_Eggradients
@@ -4899,11 +4879,11 @@ vann:preferredNamespaceUri rdf:type owl:AnnotationProperty .
                          :Violet_Group ;
            :triadicWith :Blue_Group ,
                         :Green_Group ;
-           :chinese_name "红"@zh-hans ;
            :colour_group_type "Primary"@en ;
-           :french_name "rouge"@fr ;
-           :spanish_name "red"@es ,
-                         "rojo"@es .
+		   :colour_group_name "红"@zh-Hans ,
+                           "rouge"@fr ,
+                           "red"@en ,
+                           "rojo"@es .
 
 
 ###  http://soco.cecs.anu.edu.au/onto/FTP/colour#Red_Lilac_Sewguide
@@ -4950,12 +4930,13 @@ vann:preferredNamespaceUri rdf:type owl:AnnotationProperty .
                           :Yellow_Group ;
             :triadicWith :Azure_Group ,
                          :Chatreuse_Group ;
-            :chinese_name "玫瑰"@zh-hans ,
-                          "玫瑰红"@zh-hans ,
-                          "粉红"@zh-hans ;
             :colour_group_type "Tertiary"@en ;
-            :french_name "rose"@fr ;
-            :spanish_name "rosa"@es .
+			:colour_group_name "玫瑰"@zh-Hans ,
+                          "玫瑰红"@zh-Hans ,
+                          "粉红"@zh-Hans ,
+                           "rose"@fr ,
+						   "rose"@en ,
+                           "rosa"@es .
 
 
 ###  http://soco.cecs.anu.edu.au/onto/FTP/colour#Rose_Pink_Sewguide
@@ -5298,12 +5279,13 @@ vann:preferredNamespaceUri rdf:type owl:AnnotationProperty .
                                   :Yellow_Group ;
                     :triadicWith :Orange_Group ,
                                  :Violet_Group ;
-                    :chinese_name "春绿"@zh-hans ,
-                                  "青绿"@zh-hans ;
                     :colour_group_type "Tertiary"@en ;
-                    :french_name "jeunes choux"@fr ,
-                                 "vert printemps"@fr ;
-                    :spanish_name "verde primavera"@es .
+					:colour_group_name "春绿"@zh-Hans ,
+                                  "青绿"@zh-Hans ,
+                           "jeunes choux"@fr ,
+                           "vert printemps"@fr ,
+						   "sping green"@en ,
+                           "verde primavera"@es .
 
 
 ###  http://soco.cecs.anu.edu.au/onto/FTP/colour#Spring_Green_Sewguide
@@ -6030,12 +6012,12 @@ vann:preferredNamespaceUri rdf:type owl:AnnotationProperty .
                             :Red_Group ;
               :triadicWith :Orange_Group ,
                            :Spring_Green_Group ;
-              :chinese_name "紫"@zh-hans ,
-                            "紫罗兰"@zh-hans ;
               :colour_group_type "Secondary"@en ;
-              :french_name "violet"@fr ;
-              :spanish_name "violado"@es ,
-                            "violeta"@es .
+			  :colour_group_name "紫"@zh-Hans ,
+                            "紫罗兰"@zh-Hans ,
+                           "violet"@fr ,
+                           "violet"@en ,
+                           "violeta"@es .
 
 
 ###  http://soco.cecs.anu.edu.au/onto/FTP/colour#Violet_Sewguide
@@ -6306,10 +6288,11 @@ vann:preferredNamespaceUri rdf:type owl:AnnotationProperty .
                             :Spring_Green_Group ;
               :triadicWith :Cyan_Group ,
                            :Magenta_Group ;
-              :chinese_name "黄"@zh-hans ;
               :colour_group_type "Primary"@en ;
-              :french_name "jaune"@fr ;
-              :spanish_name "amarillo"@es .
+			  :colour_group_name "黄"@zh-Hans ,
+                           "jaune"@fr ,
+						   "yellow"@en ,
+                           "amarillo"@es .
 
 
 ###  http://soco.cecs.anu.edu.au/onto/FTP/colour#Yellow_Sewguide
