@@ -28,9 +28,13 @@
 Colour is one of the most important visual features in the fashion industry. Currently, computer vision is being applied to fashion much more than before. When we do a fashion trend prediction, the lack of a consistent and comprehensive vocabulary that captures experts’ knowledge in fashion colours can create significant obstacles for researchers thus hindering the development of fashion trend prediction. In this study, we propose an approach that maps visual features-more closely to how they are thought about and used in the fashion world. We construct an ontology, following W3C Semantic Web standards, that captures the relevant concepts of colour in the fashion industry, including the basic vocabulary of colours along with its classifications, attributes, and important relationships. 
 <div align="center">
   <a href="https://github.com/zishanqin/FTP---Colour-Ontology">
-    <img src="images/cmap_v5.jpeg" alt="CMap" width="1500" height="500">
+    <img src="images/CMap.png" alt="CMap" width="1500" height="500">
   </a>
 </div>
+
+Quick access to our vocabulary: <a href="files/vocabulary_0630_updated.xlsx" download>Download the vocabulary</a>. 
+
+Quick access to our ontology RDF/Turtle file: <a href="files/ontology.ttl" download>Download the ontology</a>. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
