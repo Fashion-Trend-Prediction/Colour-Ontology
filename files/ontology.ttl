@@ -14,7 +14,7 @@
                                                                    "Priscilla Kan John"@en ;
                                                dcterms:created "2022-07-04"^^xsd:date ;
                                                dcterms:creator "Taylor Qin"@en ;
-                                               dcterms:modified "2022-07-12T15:40:00"@en ;
+                                               dcterms:modified "2022-07-12T18:48:00"@en ;
                                                vann:preferredNamespacePrefix "ftp-colour"@en ;
                                                vann:preferredNamespaceUri "http://soco.cecs.anu.edu.au/onto/FTP/colour#"^^xsd:anyURI ;
                                                rdfs:comment "Fashion Trend Prediction (FTP) Colour Ontology"@en ;
@@ -47,10 +47,6 @@ vann:preferredNamespacePrefix rdf:type owl:AnnotationProperty .
 
 ###  http://purl.org/vocab/vann/preferredNamespaceUri
 vann:preferredNamespaceUri rdf:type owl:AnnotationProperty .
-
-
-###  http://soco.cecs.anu.edu.au/onto/FTP/colour#colour-group-type
-:colour-group-type rdf:type owl:AnnotationProperty .
 
 
 #################################################################
@@ -497,7 +493,6 @@ vann:preferredNamespaceUri rdf:type owl:AnnotationProperty .
                            "azure"@fr ,
                           "azuré(e)"@fr ,
                            "azul celeste"@es ,
-                           "azur"@es ,
                            "azure"@en ,
                            "celeste"@es .
 
