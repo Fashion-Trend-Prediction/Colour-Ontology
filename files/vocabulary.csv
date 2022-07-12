@@ -1,0 +1,740 @@
+﻿,index,color_name,hex_string,colour_group,colour_group_type,source,hue,saturation,brightness,temperature
+0,0,Navy Blue,000080,Blue,Primary,Sewguide,240,100,50.2,Cool
+1,1,Navy Blue,000080,Blue,Primary,Eggradients,240,100,50.2,Cool
+9,9,Cobalt Blue,0047ab,Azure,Tertiary,Eggradients,215,100,67.1,Cool
+12,12,Baltic,006dae,Azure,Tertiary,Sewguide,202,100,68.2,Cool
+13,13,True Blue,0073cf,Azure,Tertiary,Eggradients,207,100,81.2,Cool
+14,14,Azure,007fff,Azure,Tertiary,Sewguide,210,100,100,Cool
+15,15,Teal,008080,Spring Green,Tertiary,Eggradients,180,100,50.2,Cool
+16,16,Peacocks Plume,0097a3,Azure,Tertiary,Sewguide,184,100,63.9,Cool
+21,21,Cyan,00ffff,Cyan,Tertiary,Eggradients,180,100,100,Cool
+23,23,Cerulean,02a4d3,Azure,Tertiary,Sewguide,193,99.1,82.7,Cool
+24,24,Porcelain Blue,035589,Azure,Tertiary,Sewguide,203,97.8,53.7,Cool
+25,25,Sky Blue,03bfff,Azure,Tertiary,Eggradients,195,98.8,100,Cool
+27,27,Electric Blue,0592d0,Azure,Tertiary,Eggradients,198,97.6,81.6,Cool
+32,32,Strong Bluish Green,0d8f82,Spring Green,Tertiary,ISCC-NBC System,174,90.9,56.1,Cool
+33,33,Blue Green,0d98ba,Azure,Tertiary,Sewguide,192,93,72.9,Cool
+34,34,Yale Blue,0e4d92,Azure,Tertiary,Sewguide,211,90.4,57.3,Cool
+36,36,Sapphire,0f52ba,Azure,Tertiary,Sewguide,216,91.9,72.9,Cool
+39,39,Mexican Pink,105bd1,Azure,Tertiary,Sewguide,217,92.3,82,Cool
+42,42,Strong Greenish Blue,1385af,Azure,Tertiary,ISCC-NBC System,196,89.1,68.6,Cool
+43,43,Vivid Bluish Green,13fcd5,Cyan,Tertiary,ISCC-NBC System,170,92.5,98.8,Cool
+53,53,Capri Blue,1b5583,Azure,Tertiary,Sewguide,207,79.4,51.4,Cool
+54,54,Vivid Blue,1b5cd7,Azure,Tertiary,ISCC-NBC System,219,87.4,84.3,Cool
+55,55,Persian Blue,1c39bb,Blue,Primary,Sewguide,229,85,73.3,Cool
+56,56,Gobelin Blue,1c3c91,Blue,Primary,Sewguide,224,80.7,56.9,Cool
+66,66,Vivid Green,23eaa5,Spring Green,Tertiary,ISCC-NBC System,159,85,91.8,Cool
+68,68,Lapiz Lazuli,26619c,Azure,Tertiary,Sewguide,210,75.6,61.2,Cool
+69,69,Strong Blue,276cbd,Azure,Tertiary,ISCC-NBC System,212,79.4,74.1,Cool
+71,71,Adriatic,285790,Blue,Primary,Sewguide,213,72.2,56.5,Cool
+73,73,Jungle Green,29ab87,Spring Green,Tertiary,Sewguide,163,76,67.1,Cool
+75,75,Cerulean Blue,2a52be,Blue,Primary,Eggradients,224,77.9,74.5,Cool
+76,76,Moderate Greenish Blue,2a7691,Azure,Tertiary,ISCC-NBC System,196,71,56.9,Cool
+82,82,Brilliant Greenish Blue,2dbce2,Azure,Tertiary,ISCC-NBC System,193,80.1,88.6,Cool
+99,99,Moderate Blue,34689e,Azure,Tertiary,ISCC-NBC System,211,67.1,62,Cool
+104,104,Brilliant Bluish Green,35d7ce,Cyan,Tertiary,ISCC-NBC System,177,75.3,84.3,Cool
+127,127,Turquoise,40e0d0,Cyan,Tertiary,Sewguide,174,71.4,87.8,Cool
+128,128,Turquoise,40e0d0,Cyan,Tertiary,Eggradients,174,71.4,87.8,Cool
+129,129,Turquoise,40e0d0,Cyan,Tertiary,Eggradients,174,71.4,87.8,Cool
+130,130,Ultramarine,4166f5,Blue,Primary,Sewguide,228,73.5,96.1,Cool
+131,131,Royal Blue,4169e1,Blue,Primary,Sewguide,225,71.1,88.2,Cool
+132,132,Royal Blue,4169e1,Blue,Primary,Eggradients,225,71.1,88.2,Cool
+133,133,Brilliant Blue,419ded,Azure,Tertiary,ISCC-NBC System,208,72.6,92.9,Cool
+137,137,Queen Blue,436b95,Blue,Primary,Sewguide,211,55,58.4,Cool
+138,138,Verdigris,43b3ae,Spring Green,Tertiary,Sewguide,177,62.6,70.2,Cool
+140,140,Vivid Purplish Blue,4436d1,Blue,Primary,ISCC-NBC System,245,74.2,82,Cool
+141,141,Bean Blue,44798e,Azure,Tertiary,Sewguide,197,52.1,55.7,Cool
+145,145,Steel Blue,4682b4,Azure,Tertiary,Sewguide,207,61.1,70.6,Cool
+150,150,Celestial,4997d0,Azure,Tertiary,Sewguide,205,64.9,81.6,Cool
+151,151,Brilliant Green,49d0a3,Spring Green,Tertiary,ISCC-NBC System,160,64.9,81.6,Cool
+154,154,Fairytale Green,4aab80,Spring Green,Tertiary,Sewguide,153,56.7,67.1,Cool
+155,155,Indigo,4b0082,Violet,Secondary,Sewguide,275,100,51,Cool
+156,156,Indigo Purple,4b0082,Violet,Secondary,Eggradients,275,100,51,Cool
+160,160,Niagara Blue,4c6b80,Blue,Primary,Sewguide,204,40.6,50.2,Cool
+163,163,Moderate Purplish Blue,4d4e87,Blue,Primary,ISCC-NBC System,239,43,52.9,Cool
+172,172,Strong Purplish Blue,5359b5,Blue,Primary,ISCC-NBC System,236,54.1,71,Cool
+179,179,Dark Purple,551a8b,Violet,Secondary,Eggradients,271,81.3,54.5,Cool
+180,180,Dark Purple,551a8b,Violet,Secondary,Eggradients,271,81.3,54.5,Cool
+190,190,Iris Blue,5a4fcf,Blue,Primary,Sewguide,245,61.8,81.2,Cool
+194,194,Moderate Violet,5c4985,Blue,Primary,ISCC-NBC System,259,45.1,52.2,Cool
+201,201,Cadet Blue,5f9ea0,Azure,Tertiary,Sewguide,182,40.6,62.7,Cool
+202,202,Light Bluish Green,5fabab,Spring Green,Tertiary,ISCC-NBC System,180,44.4,67.1,Cool
+204,204,Delphi Blue,608ca8,Azure,Tertiary,Sewguide,203,42.9,65.9,Cool
+209,209,Strong Violet,61419c,Blue,Primary,ISCC-NBC System,261,58.3,61.2,Cool
+216,216,Cornflower Blue,6593f5,Azure,Tertiary,Sewguide,221,58.8,96.1,Cool
+217,217,Light Greenish Blue,65a8c3,Azure,Tertiary,ISCC-NBC System,197,48.2,76.5,Cool
+222,222,Blue Grey,6699cc,Azure,Tertiary,Sewguide,210,50,80,Cool
+223,223,Blue Gray,6699cc,Azure,Tertiary,Eggradients,210,50,80,Cool
+231,231,Iris Purple,6a5acd,Blue,Primary,Eggradients,248,56.1,80.4,Cool
+237,237,Electric Indigo,6f00ff,Violet,Secondary,Eggradients,266,100,100,Cool
+238,238,Grape,6f2da8,Violet,Secondary,Eggradients,272,73.2,65.9,Cool
+243,243,Light Green,6fac95,Spring Green,Tertiary,ISCC-NBC System,157,35.5,67.5,Cool
+247,247,Slate,708090,Blue,Primary,Sewguide,210,22.2,56.5,Cool
+251,251,Light Blue,73a4dc,Azure,Tertiary,ISCC-NBC System,212,47.7,86.3,Cool
+252,252,Tilleul,73d2b2,Spring Green,Tertiary,Sewguide,160,45.2,82.4,Cool
+256,256,Slate Gray,778899,Blue,Primary,Eggradients,210,22.2,60,Cool
+259,259,Serpentine,78a680,Green,Secondary,Sewguide,130,27.7,65.1,Cool
+261,261,Vivid Violet,7931d3,Violet,Secondary,ISCC-NBC System,267,76.8,82.7,Cool
+271,271,Violet,7f00ff,Violet,Secondary,Sewguide,270,100,100,Cool
+274,274,Aquamarine,7fffd4,Spring Green,Tertiary,Sewguide,160,50.2,100,Cool
+275,275,Aquamarine,7fffd4,Spring Green,Tertiary,Eggradients,160,50.2,100,Cool
+285,285,Brilliant Purplish Blue,8088e2,Blue,Primary,ISCC-NBC System,235,43.4,88.6,Cool
+287,287,Forget Me Not,816aa2,Blue,Primary,Sewguide,265,34.6,63.5,Cool
+289,289,Bluish Gray,838793,Blue,Primary,ISCC-NBC System,225,10.9,57.6,Cool
+290,290,Oxford Grey,8391a1,Blue,Primary,Sewguide,212,18.6,63.1,Cool
+293,293,Greenish Gray,848888,Green,Secondary,ISCC-NBC System,180,2.94,53.3,Cool
+295,295,Chinese Violet,856088,Blue,Primary,Eggradients,296,29.4,53.3,Cool
+296,296,Zenith Blue,85b2d3,Azure,Tertiary,Sewguide,205,37,82.7,Cool
+299,299,Moderate Purple,875e96,Violet,Secondary,ISCC-NBC System,284,37.3,58.8,Cool
+301,301,Sky Blue,87ceeb,Azure,Tertiary,Sewguide,197,42.6,92.2,Cool
+302,302,Brilliant Yellowish Green,87d989,Green,Secondary,ISCC-NBC System,121,37.8,85.1,Cool
+303,303,French Violet,8806ce,Violet,Secondary,Sewguide,279,97.1,80.8,Cool
+306,306,Grey Stone,888c8d,Blue,Primary,Sewguide,192,3.55,55.3,Cool
+307,307,Light Purplish Blue,8991cb,Blue,Primary,ISCC-NBC System,233,32.5,79.6,Cool
+308,308,Baby Blue,89cff0,Azure,Tertiary,Sewguide,199,42.9,94.1,Cool
+310,310,Blue Violet,8a2be2,Violet,Secondary,Eggradients,271,81,88.6,Cool
+320,320,Frost Blue,8bafc7,Azure,Tertiary,Sewguide,204,30.2,78,Cool
+321,321,Cool Gray,8c92ac,Blue,Primary,Eggradients,229,18.6,67.5,Cool
+322,322,Florentine,8c9ab4,Blue,Primary,Sewguide,219,22.2,70.6,Cool
+327,327,Pale Purplish Blue,8e92b7,Blue,Primary,ISCC-NBC System,234,22.4,71.8,Cool
+328,328,Purplish Gray,8f8490,Blue,Primary,ISCC-NBC System,295,8.33,56.5,Cool
+331,331,Hydrangea,90b0c5,Azure,Tertiary,Sewguide,204,26.9,77.3,Cool
+333,333,Pale Blue,91a2bb,Blue,Primary,ISCC-NBC System,216,22.5,73.3,Cool
+334,334,Cadet Grey,91a3b0,Blue,Primary,Sewguide,205,17.6,69,Cool
+340,340,Strong Purple,9352a8,Violet,Secondary,ISCC-NBC System,285,51.2,65.9,Cool
+341,341,Persian Violet,939cc3,Blue,Primary,Sewguide,229,24.6,76.5,Cool
+344,344,Dark Violet,9400d3,Violet,Secondary,Eggradients,282,100,82.7,Cool
+346,346,Pale Green,94a6a3,Green,Secondary,ISCC-NBC System,170,10.8,65.1,Cool
+347,347,Very Light Greenish Blue,94d6ef,Azure,Tertiary,ISCC-NBC System,196,38.1,93.7,Cool
+356,356,Brilliant Violet,987fdc,Blue,Primary,ISCC-NBC System,256,42.3,86.3,Cool
+357,357,Very Light Bluish Green,98e1e0,Spring Green,Tertiary,ISCC-NBC System,179,32.4,88.2,Cool
+360,360,Amethyst,9966cc,Violet,Secondary,Sewguide,270,50,80,Cool
+361,361,Amethyst Purple,9966cc,Violet,Secondary,Eggradients,270,50,80,Cool
+364,364,Very Light Blue,99c6f9,Azure,Tertiary,ISCC-NBC System,212,38.6,97.6,Cool
+365,365,Pale Violet,9a90b5,Blue,Primary,ISCC-NBC System,256,20.4,71,Cool
+366,366,Aventurine,9ac69b,Green,Secondary,Sewguide,121,22.2,77.6,Cool
+370,370,Light Violet,9b8cca,Blue,Primary,ISCC-NBC System,255,30.7,79.2,Cool
+377,377,Purple,9f00c5,Violet,Secondary,Sewguide,288,100,77.3,Cool
+388,388,Cambridge Blue,a3c1ad,Green,Secondary,Sewguide,140,15.5,75.7,Cool
+390,390,Quaker Grey,a5b2b6,Blue,Primary,Sewguide,194,9.34,71.4,Cool
+391,391,China Blue,a5e3fa,Azure,Tertiary,Sewguide,196,34,98,Cool
+394,394,Grey Blue,a6bbea,Blue,Primary,Sewguide,221,29.1,91.8,Cool
+395,395,Very Light Green,a6e2ca,Spring Green,Tertiary,ISCC-NBC System,156,26.5,88.6,Cool
+397,397,Purple Gray,a7a6ba,Blue,Primary,Eggradients,243,10.8,72.9,Cool
+398,398,Verdant Green,a7d3a8,Green,Secondary,Sewguide,121,20.9,82.7,Cool
+403,403,Gun Metal,aaa9ae,Blue,Primary,Sewguide,252,2.87,68.2,Cool
+404,404,Mint,aaf0d1,Spring Green,Tertiary,Eggradients,153,29.2,94.1,Cool
+410,410,Pale Purple,ad97b3,Blue,Primary,ISCC-NBC System,287,15.6,70.2,Cool
+411,411,Pastel Blue,aec6cf,Azure,Tertiary,Sewguide,196,15.9,81.2,Cool
+414,414,Dove Grey,afb8bd,Blue,Primary,Sewguide,201,7.41,74.1,Cool
+418,418,Powder Blue,b0dfe5,Azure,Tertiary,Sewguide,187,23.1,89.8,Cool
+422,422,African Violet,b284be,Violet,Secondary,Eggradients,288,30.5,74.5,Cool
+424,424,Ash,b2beb5,Green,Secondary,Sewguide,135,6.32,74.5,Cool
+425,425,Ash Gray,b2beb5,Green,Secondary,Eggradients,135,6.32,74.5,Cool
+426,426,Celeste,b2ffff,Cyan,Tertiary,Sewguide,180,30.2,100,Cool
+438,438,Lilac,b666d2,Violet,Secondary,Sewguide,284,51.4,82.4,Cool
+442,442,Light Bluish Gray,b7b8c6,Blue,Primary,ISCC-NBC System,236,7.58,77.6,Cool
+443,443,Very Light Purplish Blue,b7c0f8,Blue,Primary,ISCC-NBC System,232,26.2,97.3,Cool
+448,448,Vivid Purple,b935d5,Violet,Secondary,ISCC-NBC System,290,75.1,83.5,Cool
+452,452,Light Greenish Gray,babec1,Blue,Primary,ISCC-NBC System,206,3.63,75.7,Cool
+453,453,Light Purple,bc93cc,Violet,Secondary,ISCC-NBC System,283,27.9,80,Cool
+456,456,Light Gray,bdb7bf,Blue,Primary,ISCC-NBC System,285,4.19,74.9,Cool
+458,458,Electric Purple,bf00ff,Violet,Secondary,Eggradients,285,100,100,Cool
+472,472,Very Pale Blue,c2d2ec,Azure,Tertiary,ISCC-NBC System,217,17.8,92.5,Cool
+475,475,Light Purplish Gray,c3b7c6,Blue,Primary,ISCC-NBC System,288,7.58,77.6,Cool
+476,476,Periwinkle,c3cde6,Blue,Primary,Sewguide,223,15.2,90.2,Cool
+481,481,Lavender Grey,c4c3d0,Blue,Primary,Sewguide,245,6.25,81.6,Cool
+484,484,Very Pale Purplish Blue,c5c9f0,Blue,Primary,ISCC-NBC System,234,17.9,94.1,Cool
+492,492,Very Pale Green,c7d9d6,Spring Green,Tertiary,ISCC-NBC System,170,8.29,85.1,Cool
+496,496,Wisteria,c9a0dc,Violet,Secondary,Sewguide,281,27.3,86.3,Cool
+497,497,Very Light Violet,c9baf8,Blue,Primary,ISCC-NBC System,255,25,97.3,Cool
+513,513,Brilliant Purple,ce8ce3,Violet,Secondary,ISCC-NBC System,286,38.3,89,Cool
+517,517,Very Pale Violet,d0c6ef,Blue,Primary,ISCC-NBC System,255,17.2,93.7,Cool
+545,545,Heliotrope,df73ff,Magenta,Tertiary,Sewguide,286,54.9,100,Cool
+546,546,Heliotrope Purple,df73ff,Magenta,Tertiary,Eggradients,286,54.9,100,Cool
+549,549,Mauve,e0b0ff,Violet,Secondary,Sewguide,276,31,100,Cool
+550,550,Very Pale Purple,e0cbeb,Violet,Secondary,ISCC-NBC System,279,13.6,92.2,Cool
+552,552,Greenish White,e0e2e5,Blue,Primary,ISCC-NBC System,216,2.18,89.8,Cool
+555,555,Bluish White,e1e1f1,Blue,Primary,ISCC-NBC System,240,6.64,94.5,Cool
+563,563,Very Light Purple,e4b9f3,Violet,Secondary,ISCC-NBC System,284,23.9,95.3,Cool
+576,576,Lavender,e6e6fa,Blue,Primary,Sewguide,240,8,98,Cool
+577,577,Lavender,e6e6fa,Blue,Primary,Eggradients,240,8,98,Cool
+581,581,White,e7e1e9,Blue,Primary,ISCC-NBC System,285,3.43,91.4,Cool
+596,596,Purplish White,ebdfef,Violet,Secondary,ISCC-NBC System,285,6.69,93.7,Cool
+623,623,Alice Blue,f0f8ff,Azure,Tertiary,Sewguide,208,5.88,100,Cool
+2,2,Oxford Blue,002047,Blue,Primary,Sewguide,213,100,27.8,Neutral/Undefined
+3,3,Oxford Blue,002147,Blue,Primary,Eggradients,212,100,27.8,Neutral/Undefined
+4,4,Marine Blue,002a77,Blue,Primary,Sewguide,219,100,46.7,Neutral/Undefined
+5,5,Prussian Blue,003153,Blue,Primary,Eggradients,205,100,32.5,Neutral/Undefined
+6,6,Moss Green,003366,Blue,Primary,Sewguide,210,100,40,Neutral/Undefined
+7,7,Midnight Blue,003366,Blue,Primary,Eggradients,210,100,40,Neutral/Undefined
+8,8,Midnight Blue,003366,Blue,Primary,Eggradients,210,100,40,Neutral/Undefined
+10,10,Dark Green,006400,Green,Secondary,Eggradients,120,100,39.2,Neutral/Undefined
+11,11,Bottle Green,006a4e,Spring Green,Tertiary,Sewguide,164,100,41.6,Neutral/Undefined
+17,17,Jade,00a86b,Spring Green,Tertiary,Sewguide,158,100,65.9,Neutral/Undefined
+18,18,Lime,00ff00,Green,Secondary,Sewguide,120,100,100,Neutral/Undefined
+19,19,Spring Green,00ff7f,Spring Green,Tertiary,Sewguide,150,100,100,Neutral/Undefined
+20,20,Spring Green,00ff7f,Spring Green,Tertiary,Eggradients,150,100,100,Neutral/Undefined
+22,22,Pine,01796f,Spring Green,Tertiary,Sewguide,175,99.2,47.5,Neutral/Undefined
+26,26,Very Deep Yellowish Green,054208,Green,Secondary,ISCC-NBC System,123,92.4,25.9,Neutral/Undefined
+28,28,Very Dark Bluish Green,0a2d2e,Blue,Primary,ISCC-NBC System,182,78.3,18,Neutral/Undefined
+29,29,Very Dark Greenish Blue,0b2c3b,Blue,Primary,ISCC-NBC System,199,81.4,23.1,Neutral/Undefined
+30,30,Forrest Green,0b6623,Green,Secondary,Sewguide,136,89.2,40,Neutral/Undefined
+31,31,Very Dark Green,0c2e24,Green,Secondary,ISCC-NBC System,162,73.9,18,Neutral/Undefined
+35,35,Onyx,0f0f0f,Red,Primary,Eggradients,0,0,5.88,Neutral/Undefined
+37,37,Smoky Black,100c08,Red,Primary,Eggradients,30,50,6.27,Neutral/Undefined
+38,38,Very Dark Yellowish Green,10361a,Green,Secondary,ISCC-NBC System,136,70.4,21.2,Neutral/Undefined
+40,40,Deep Blue,113074,Blue,Primary,ISCC-NBC System,221,85.3,45.5,Neutral/Undefined
+41,41,Dark Greenish Blue,134a60,Blue,Primary,ISCC-NBC System,197,80.2,37.6,Neutral/Undefined
+44,44,Dark Bluish Green,154b4d,Blue,Primary,ISCC-NBC System,182,72.7,30.2,Neutral/Undefined
+45,45,Strong Green,158a66,Spring Green,Tertiary,ISCC-NBC System,162,84.8,54.1,Neutral/Undefined
+46,46,Eigengrau,16161d,Blue,Primary,Eggradients,240,24.1,11.4,Neutral/Undefined
+47,47,Dark Green,164e3d,Green,Secondary,ISCC-NBC System,162,71.8,30.6,Neutral/Undefined
+48,48,Peacock Green,166c4d,Green,Secondary,Sewguide,158,79.6,42.4,Neutral/Undefined
+49,49,Dark Blue,173459,Blue,Primary,ISCC-NBC System,214,74.2,34.9,Neutral/Undefined
+50,50,Deep Yellowish Green,176a1e,Green,Secondary,ISCC-NBC System,125,78.3,41.6,Neutral/Undefined
+51,51,Lincoln Green,195905,Green,Secondary,Sewguide,106,94.4,34.9,Neutral/Undefined
+52,52,Licorice,1a1110,Red,Primary,Eggradients,6,38.5,10.2,Neutral/Undefined
+57,57,Blackish Blue,1e2531,Blue,Primary,ISCC-NBC System,218,38.8,19.2,Neutral/Undefined
+58,58,Cobalt Blue,1e2b67,Blue,Primary,Sewguide,229,70.9,40.4,Neutral/Undefined
+59,59,Blackish Green,1f2a2a,Green,Secondary,ISCC-NBC System,180,26.2,16.5,Neutral/Undefined
+60,60,Dark Olive Green,20340b,Green,Secondary,ISCC-NBC System,89.3,78.8,20.4,Neutral/Undefined
+61,61,Greenish Black,212626,Green,Secondary,ISCC-NBC System,180,13.2,14.9,Neutral/Undefined
+62,62,Hyacinth Blue,213567,Blue,Primary,Sewguide,223,68,40.4,Neutral/Undefined
+63,63,Dark Purplish Blue,222248,Blue,Primary,ISCC-NBC System,240,52.8,28.2,Neutral/Undefined
+64,64,Forest Green,228b22,Green,Secondary,Eggradients,120,75.5,54.5,Neutral/Undefined
+65,65,Olive Black,23211c,Red,Primary,ISCC-NBC System,42.9,20,13.7,Neutral/Undefined
+67,67,Bluish Black,24272e,Blue,Primary,ISCC-NBC System,222,21.7,18,Neutral/Undefined
+70,70,Ebony,282c35,Blue,Primary,Eggradients,222,24.5,20.8,Neutral/Undefined
+72,72,Moderate Bluish Green,297a7b,Azure,Tertiary,ISCC-NBC System,181,66.7,48.2,Neutral/Undefined
+74,74,Deep Purplish Blue,2a286f,Blue,Primary,ISCC-NBC System,242,64,43.5,Neutral/Undefined
+77,77,Brownish Black,2b211e,Red,Primary,ISCC-NBC System,13.8,30.2,16.9,Neutral/Undefined
+78,78,Purplish Black,2b2630,Blue,Primary,ISCC-NBC System,270,20.8,18.8,Neutral/Undefined
+79,79,Black,2b292b,Red,Primary,ISCC-NBC System,300,4.65,16.9,Neutral/Undefined
+80,80,Gunmetal Gray,2c3539,Blue,Primary,Eggradients,198,22.8,22.4,Neutral/Undefined
+81,81,Strong Olive Green,2c5506,Green,Secondary,ISCC-NBC System,91.1,92.9,33.3,Neutral/Undefined
+83,83,Sea Green,2e8b57,Green,Secondary,Sewguide,146,66.9,54.5,Neutral/Undefined
+84,84,Blackish Purple,2f2231,Blue,Primary,ISCC-NBC System,292,30.6,19.2,Neutral/Undefined
+85,85,Dark Grayish Olive Green,2f3326,Green,Secondary,ISCC-NBC System,78.5,25.5,20,Neutral/Undefined
+86,86,Dark Yellowish Green,2f5d3a,Green,Secondary,ISCC-NBC System,134,49.5,36.5,Neutral/Undefined
+87,87,Reddish Black,30262b,Red,Primary,ISCC-NBC System,330,20.8,18.8,Neutral/Undefined
+88,88,Paisley Green,305d35,Green,Secondary,Sewguide,127,48.4,36.5,Neutral/Undefined
+89,89,Seal Brown,321414,Red,Primary,Sewguide,0,60,19.6,Neutral/Undefined
+90,90,Russian Violet,32174d,Blue,Primary,Eggradients,270,70.1,30.2,Neutral/Undefined
+91,91,Dark Grayish Blue,323f4e,Blue,Primary,ISCC-NBC System,212,35.9,30.6,Neutral/Undefined
+92,92,Peacock Blue,326872,Azure,Tertiary,Sewguide,189,56.1,44.7,Neutral/Undefined
+93,93,Lime Green,32cd32,Green,Secondary,Sewguide,120,75.6,80.4,Neutral/Undefined
+94,94,Lime Green,32cd32,Green,Secondary,Eggradients,120,75.6,80.4,Neutral/Undefined
+95,95,Blackish Red,332127,Red,Primary,ISCC-NBC System,340,35.3,20,Neutral/Undefined
+96,96,Moderate Green,337762,Green,Secondary,ISCC-NBC System,161,57.1,46.7,Neutral/Undefined
+97,97,Dark Violet,34254d,Blue,Primary,ISCC-NBC System,262,51.9,30.2,Neutral/Undefined
+98,98,Jet,343434,Red,Primary,Eggradients,0,0,20.4,Neutral/Undefined
+100,100,Cocoa,35281e,Red,Primary,Sewguide,26.1,43.4,20.8,Neutral/Undefined
+101,101,Dark Olive,352e0a,Red,Primary,ISCC-NBC System,50.2,81.1,20.8,Neutral/Undefined
+102,102,Dark Grayish Olive,35301c,Red,Primary,ISCC-NBC System,48,47.2,20.8,Neutral/Undefined
+103,103,Hunter Green,355e3b,Green,Secondary,Eggradients,129,43.6,36.9,Neutral/Undefined
+105,105,Charcoal,36454f,Blue,Primary,Eggradients,204,31.6,31,Neutral/Undefined
+106,106,Charcoal,36454f,Blue,Primary,Eggradients,204,31.6,31,Neutral/Undefined
+107,107,Very Dark Purple,371b41,Blue,Primary,ISCC-NBC System,284,58.5,25.5,Neutral/Undefined
+108,108,Police Box Blue,374f6b,Blue,Primary,Sewguide,212,48.6,42,Neutral/Undefined
+109,109,Dark Grayish Green,394746,Green,Secondary,ISCC-NBC System,176,19.7,27.8,Neutral/Undefined
+110,110,Strong Yellowish Green,39964a,Green,Secondary,ISCC-NBC System,131,62,58.8,Neutral/Undefined
+111,111,Neon Green,39ff14,Green,Secondary,Eggradients,111,92.2,100,Neutral/Undefined
+112,112,Black Olive,3b3c36,Green,Secondary,Eggradients,70,10,23.5,Neutral/Undefined
+113,113,Deep Violet,3c1668,Blue,Primary,ISCC-NBC System,268,78.8,40.8,Neutral/Undefined
+114,114,Black Bean,3d0c02,Red,Primary,Eggradients,10.2,96.7,23.9,Neutral/Undefined
+115,115,Bistre,3d2b1f,Red,Primary,Eggradients,24,49.2,23.9,Neutral/Undefined
+116,116,Havana,3d352f,Red,Primary,Sewguide,25.7,23,23.9,Neutral/Undefined
+117,117,Dark Grayish Brown,3e2c28,Red,Primary,ISCC-NBC System,10.9,35.5,24.3,Neutral/Undefined
+118,118,Sable Brown,3e3526,Red,Primary,Sewguide,37.5,38.7,24.3,Neutral/Undefined
+119,119,Very Dark Reddish Purple,3f183c,Red,Primary,ISCC-NBC System,305,61.9,24.7,Neutral/Undefined
+120,120,Dark Olive Brown,3f2c10,Red,Primary,ISCC-NBC System,35.7,74.6,24.7,Neutral/Undefined
+121,121,Blue Heather,3f4868,Blue,Primary,Sewguide,227,39.4,40.8,Neutral/Undefined
+122,122,Hunters Green,3f704d,Green,Secondary,Sewguide,137,43.7,43.9,Neutral/Undefined
+123,123,Vivid Yellowish Green,3fd740,Green,Secondary,ISCC-NBC System,120,70.7,84.3,Neutral/Undefined
+124,124,Harlequin,3fff00,Green,Secondary,Sewguide,105,100,100,Neutral/Undefined
+125,125,Payne'S Gray,40404f,Blue,Primary,Eggradients,240,19,31,Neutral/Undefined
+126,126,Almond Green,405646,Green,Secondary,Sewguide,136,25.6,33.7,Neutral/Undefined
+134,134,Very Dark Purplish Red,431432,Red,Primary,ISCC-NBC System,322,70.1,26.3,Neutral/Undefined
+135,135,Dark Grayish Reddish Brown,43292a,Red,Primary,ISCC-NBC System,358,38.8,26.3,Neutral/Undefined
+136,136,Iron Grey,434b4d,Blue,Primary,Sewguide,192,13,30.2,Neutral/Undefined
+139,139,Dark Brown,442112,Red,Primary,ISCC-NBC System,18,73.5,26.7,Neutral/Undefined
+142,142,Very Deep Purple,460a55,Blue,Primary,ISCC-NBC System,288,88.2,33.3,Neutral/Undefined
+143,143,Dark Reddish Brown,461d1e,Red,Primary,ISCC-NBC System,359,58.6,27.5,Neutral/Undefined
+144,144,Brown Heather,46220b,Red,Primary,Sewguide,23.4,84.3,27.5,Neutral/Undefined
+146,146,Very Dark Red,481127,Red,Primary,ISCC-NBC System,336,76.4,28.2,Neutral/Undefined
+147,147,Deep Yellow Green,486c0e,Green,Secondary,ISCC-NBC System,83,87,42.4,Neutral/Undefined
+148,148,Grayish Purplish Blue,494d71,Blue,Primary,ISCC-NBC System,234,35.4,44.3,Neutral/Undefined
+149,149,Moderate Olive Green,495b22,Green,Secondary,ISCC-NBC System,78.9,62.6,35.7,Neutral/Undefined
+152,152,Titian Brown,4a0b0f,Red,Primary,Sewguide,356,85.1,29,Neutral/Undefined
+153,153,Grey Pearl,4a5557,Blue,Primary,Sewguide,189,14.9,34.1,Neutral/Undefined
+157,157,Bordeaux,4c1c24,Red,Primary,Sewguide,350,63.2,29.8,Neutral/Undefined
+158,158,Acajou,4c2f27,Red,Primary,Sewguide,13,48.7,29.8,Neutral/Undefined
+159,159,Litchen Green,4c4d45,Green,Secondary,Sewguide,67.5,10.4,30.2,Neutral/Undefined
+161,161,Kelly Green,4cbb17,Green,Secondary,Eggradients,101,87.7,73.3,Neutral/Undefined
+162,162,Dark Grayish Yellowish Brown,4d3d33,Red,Primary,ISCC-NBC System,23.1,33.8,30.2,Neutral/Undefined
+164,164,Very Deep Reddish Purple,4f094a,Rose,Tertiary,ISCC-NBC System,304,88.6,31,Neutral/Undefined
+165,165,Gentlemans Grey,4f6270,Blue,Primary,Sewguide,205,29.5,43.9,Neutral/Undefined
+166,166,Dark Yellowish Brown,50341a,Red,Primary,ISCC-NBC System,28.9,67.5,31.4,Neutral/Undefined
+167,167,Dark Bluish Gray,50545f,Blue,Primary,ISCC-NBC System,224,15.8,37.3,Neutral/Undefined
+168,168,Rich Green,508b1b,Green,Secondary,Sewguide,91.6,80.6,54.5,Neutral/Undefined
+169,169,Emerald,50c878,Green,Secondary,Sewguide,140,60,78.4,Neutral/Undefined
+170,170,Dark Grayish Purple,513f51,Red,Primary,ISCC-NBC System,300,22.2,31.8,Neutral/Undefined
+171,171,Dark Grayish Red,53383e,Red,Primary,ISCC-NBC System,347,32.5,32.5,Neutral/Undefined
+173,173,Ball Park Blue,535e7e,Blue,Primary,Sewguide,225,34.1,49.4,Neutral/Undefined
+174,174,Very Deep Purplish Red,54063c,Red,Primary,ISCC-NBC System,318,92.9,32.9,Neutral/Undefined
+175,175,Dark Greenish Gray,545858,Green,Secondary,ISCC-NBC System,180,4.55,34.5,Neutral/Undefined
+176,176,Grayish Olive Green,545947,Green,Secondary,ISCC-NBC System,76.7,20.2,34.9,Neutral/Undefined
+177,177,Grayish Blue,54687f,Blue,Primary,ISCC-NBC System,212,33.9,49.8,Neutral/Undefined
+178,178,Kendal Green,547867,Green,Secondary,Sewguide,152,30,47.1,Neutral/Undefined
+181,181,Olive Green,556b2f,Green,Secondary,Sewguide,82,56.1,42,Neutral/Undefined
+182,182,Dark Purple,563762,Blue,Primary,ISCC-NBC System,283,43.9,38.4,Neutral/Undefined
+183,183,English Violet,563c5c,Blue,Primary,Eggradients,289,34.8,36.1,Neutral/Undefined
+184,184,Drab,565249,Red,Primary,Sewguide,41.5,15.1,33.7,Neutral/Undefined
+185,185,Deep Brown,571a07,Red,Primary,ISCC-NBC System,14.2,92,34.1,Neutral/Undefined
+186,186,Grass Green,577c48,Green,Secondary,Sewguide,103,41.9,48.6,Neutral/Undefined
+187,187,Grayish Violet,584e72,Blue,Primary,ISCC-NBC System,257,31.6,44.7,Neutral/Undefined
+188,188,Olive Gray,58514a,Red,Primary,ISCC-NBC System,30,15.9,34.5,Neutral/Undefined
+189,189,Dark Gray,585458,Red,Primary,ISCC-NBC System,300,4.55,34.5,Neutral/Undefined
+191,191,Nut Brown,5b3a29,Red,Primary,Sewguide,20.4,54.9,35.7,Neutral/Undefined
+192,192,Very Deep Red,5c0625,Red,Primary,ISCC-NBC System,338,93.5,36.1,Neutral/Undefined
+193,193,Chocolate,5c3317,Red,Primary,Sewguide,24.3,75,36.1,Neutral/Undefined
+195,195,Dark Purplish Gray,5c525e,Blue,Primary,ISCC-NBC System,290,12.8,36.9,Neutral/Undefined
+196,196,Walnut Brown,5d432c,Red,Primary,Sewguide,28.2,52.7,36.5,Neutral/Undefined
+197,197,Dark Reddish Gray,5d4e53,Red,Primary,ISCC-NBC System,340,16.1,36.5,Neutral/Undefined
+198,198,Grayish Olive,5d553f,Red,Primary,ISCC-NBC System,44,32.3,36.5,Neutral/Undefined
+199,199,Wine,5e1224,Red,Primary,Sewguide,346,80.9,36.9,Neutral/Undefined
+200,200,Dark Reddish Purple,5f3458,Red,Primary,ISCC-NBC System,310,45.3,37.3,Neutral/Undefined
+203,203,Brownish Gray,605251,Red,Primary,ISCC-NBC System,4,15.6,37.6,Neutral/Undefined
+205,205,Deep Reddish Brown,610f12,Red,Primary,ISCC-NBC System,358,84.5,38,Neutral/Undefined
+206,206,Raisin,612302,Red,Primary,Sewguide,20.8,97.9,38,Neutral/Undefined
+207,207,Raisin,612302,Red,Primary,Eggradients,20.8,97.9,38,Neutral/Undefined
+208,208,Egg Plant,614051,Red,Primary,Sewguide,329,34,38,Neutral/Undefined
+210,210,Grayish Green,61716e,Green,Secondary,ISCC-NBC System,169,14.2,44.3,Neutral/Undefined
+211,211,Umber,635147,Red,Primary,Sewguide,21.4,28.3,38.8,Neutral/Undefined
+212,212,Moderate Olive,64591a,Orange,Secondary,ISCC-NBC System,51.1,74,39.2,Neutral/Undefined
+213,213,Mulberry,646b63,Green,Secondary,Sewguide,113,7.48,42,Neutral/Undefined
+214,214,Rosewood,65000b,Red,Primary,Eggradients,353,100,39.6,Neutral/Undefined
+215,215,Deep Purple,652277,Violet,Secondary,ISCC-NBC System,287,71.4,46.7,Neutral/Undefined
+218,218,Tyrian Purple,66023c,Red,Primary,Sewguide,325,98,40,Neutral/Undefined
+219,219,Tyrian Purple,66023c,Red,Primary,Eggradients,325,98,40,Neutral/Undefined
+220,220,Van Dyke,664228,Red,Primary,Sewguide,25.2,60.8,40,Neutral/Undefined
+221,221,Moderate Yellowish Green,669069,Green,Secondary,ISCC-NBC System,124,29.2,56.5,Neutral/Undefined
+224,224,Mahogany,670909,Red,Primary,Sewguide,0,91.3,40.4,Neutral/Undefined
+225,225,Deep Yellowish Brown,673f0b,Red,Primary,ISCC-NBC System,33.9,89.3,40.4,Neutral/Undefined
+226,226,Beetroot,673f45,Red,Primary,Sewguide,351,38.8,40.4,Neutral/Undefined
+227,227,Grayish Brown,674f48,Red,Primary,ISCC-NBC System,13.5,30.1,40.4,Neutral/Undefined
+228,228,Russian Green,679267,Green,Secondary,Sewguide,120,29.5,57.3,Neutral/Undefined
+229,229,Current,680c07,Red,Primary,Sewguide,3.09,93.3,40.8,Neutral/Undefined
+230,230,Aubergine,693b58,Red,Primary,Sewguide,322,43.8,41.2,Neutral/Undefined
+232,232,Grayish Reddish Brown,6c4d4b,Red,Primary,ISCC-NBC System,3.64,30.6,42.4,Neutral/Undefined
+233,233,Red Lilac,6d3f5b,Red,Primary,Sewguide,323,42.2,42.7,Neutral/Undefined
+234,234,Tobacco,6d5843,Red,Primary,Sewguide,30,38.5,42.7,Neutral/Undefined
+235,235,Russian Blue,6d7771,Green,Secondary,Sewguide,144,8.4,46.7,Neutral/Undefined
+236,236,Dark Purplish Red,6e294c,Red,Primary,ISCC-NBC System,330,62.7,43.1,Neutral/Undefined
+239,239,Caffeine,6f4e37,Red,Primary,Sewguide,24.6,50.5,43.5,Neutral/Undefined
+240,240,Chimney Sweep,6f6f6f,Red,Primary,Sewguide,0,0,43.5,Neutral/Undefined
+241,241,Raven,6f747b,Blue,Primary,Sewguide,215,9.76,48.2,Neutral/Undefined
+242,242,Palm Leaf,6f9940,Green,Secondary,Sewguide,88.3,58.2,60,Neutral/Undefined
+244,244,Byzantium,702963,Rose,Tertiary,Eggradients,311,63.4,43.9,Neutral/Undefined
+245,245,Sepia,704214,Red,Primary,Sewguide,30,82.1,43.9,Neutral/Undefined
+246,246,Moderate Olive Brown,705420,Red,Primary,ISCC-NBC System,39,71.4,43.9,Neutral/Undefined
+248,248,Blood,710c04,Red,Primary,Sewguide,4.4,96.5,44.3,Neutral/Undefined
+249,249,Moderate Brown,724a38,Red,Primary,ISCC-NBC System,18.6,50.9,44.7,Neutral/Undefined
+250,250,Pea Green,739122,Chartreuse,Tertiary,Sewguide,76.2,76.6,56.9,Neutral/Undefined
+253,253,Dark Red,742434,Red,Primary,ISCC-NBC System,348,69,45.5,Neutral/Undefined
+254,254,Deep Reddish Purple,761a6a,Rose,Tertiary,ISCC-NBC System,308,78,46.3,Neutral/Undefined
+255,255,Sage Green,77815c,Green,Secondary,Sewguide,76.2,28.7,50.6,Neutral/Undefined
+257,257,Pastel Green,77dd77,Green,Secondary,Eggradients,120,46.2,86.7,Neutral/Undefined
+258,258,Pansy Purple,78184a,Red,Primary,Sewguide,329,80,47.1,Neutral/Undefined
+260,260,Garnet,791c2e,Red,Primary,Sewguide,348,76.9,47.5,Neutral/Undefined
+262,262,Berry,7a1712,Red,Primary,Sewguide,2.88,85.2,47.8,Neutral/Undefined
+263,263,Heather,7a8768,Green,Secondary,Sewguide,85.2,23,52.9,Neutral/Undefined
+264,264,Grayish Purple,7b667e,Blue,Primary,ISCC-NBC System,292,19,49.4,Neutral/Undefined
+265,265,Lawn Green,7cfc00,Chartreuse,Tertiary,Sewguide,90.5,100,98.8,Neutral/Undefined
+266,266,Moderate Reddish Brown,7d423b,Red,Primary,ISCC-NBC System,6.36,52.8,49,Neutral/Undefined
+267,267,Cigar Brown,7d4e38,Red,Primary,Sewguide,19.1,55.2,49,Neutral/Undefined
+268,268,Palisandre,7d6131,Red,Primary,Sewguide,37.9,60.8,49,Neutral/Undefined
+269,269,Brick,7e2811,Red,Primary,Sewguide,12.7,86.5,49.4,Neutral/Undefined
+270,270,Grayish Yellowish Brown,7e695d,Red,Primary,ISCC-NBC System,21.8,26.2,49.4,Neutral/Undefined
+272,272,Claret,7f1734,Red,Primary,Sewguide,343,81.9,49.8,Neutral/Undefined
+273,273,Chartreuse,7fff00,Chartreuse,Tertiary,Eggradients,90.1,100,100,Neutral/Undefined
+332,332,Light Green,90ee90,Green,Secondary,Eggradients,120,39.5,93.3,Neutral/Undefined
+371,371,Light Yellowish Green,9cc69c,Green,Secondary,ISCC-NBC System,120,21.2,77.6,Neutral/Undefined
+437,437,Nickel,b5b6b5,Green,Secondary,Sewguide,120,0.549,71.4,Neutral/Undefined
+463,463,Silver,c0c0c0,Red,Primary,Eggradients,0,0,75.3,Neutral/Undefined
+530,530,Thistle,d8bfd8,Rose,Tertiary,Sewguide,300,11.6,84.7,Neutral/Undefined
+624,624,Honeydew,f0fff0,Green,Secondary,Eggradients,120,5.88,100,Neutral/Undefined
+649,649,White Smoke,f5f5f5,Red,Primary,Eggradients,0,0,96.1,Neutral/Undefined
+650,650,White Smoke,f5f5f5,Red,Primary,Eggradients,0,0,96.1,Neutral/Undefined
+689,689,Fuchsia,ff00ff,Magenta,Tertiary,Sewguide,300,100,100,Neutral/Undefined
+690,690,Magenta,ff00ff,Magenta,Tertiary,Sewguide,300,100,100,Neutral/Undefined
+691,691,Magenta,ff00ff,Magenta,Tertiary,Eggradients,300,100,100,Neutral/Undefined
+692,692,Magenta,ff00ff,Magenta,Tertiary,Eggradients,300,100,100,Neutral/Undefined
+706,706,Fuchsia Pink,ff77ff,Magenta,Tertiary,Eggradients,300,53.3,100,Neutral/Undefined
+276,276,Maroon,800000,Red,Primary,Sewguide,0,100,50.2,Warm
+277,277,Maroon,800000,Red,Primary,Eggradients,0,100,50.2,Warm
+278,278,Maroon,800000,Red,Primary,Eggradients,0,100,50.2,Warm
+279,279,Burgundy,800020,Red,Primary,Sewguide,345,100,50.2,Warm
+280,280,Burgundy,800020,Red,Primary,Eggradients,345,100,50.2,Warm
+281,281,Burgundy,800020,Red,Primary,Eggradients,345,100,50.2,Warm
+282,282,Clay,80400b,Red,Primary,Sewguide,27.2,91.4,50.2,Warm
+283,283,Olive,808000,Orange,Secondary,Eggradients,60,100,50.2,Warm
+284,284,Olive,808000,Orange,Secondary,Eggradients,60,100,50.2,Warm
+286,286,Safari,815f37,Red,Primary,Sewguide,32.4,57.4,50.6,Warm
+288,288,Strong Yellow Green,82a12b,Chartreuse,Tertiary,ISCC-NBC System,75.8,73.3,63.1,Warm
+291,291,Battle Ship Grey,848482,Red,Primary,Sewguide,60,1.52,51.8,Warm
+292,292,Battleship Gray,848482,Red,Primary,Eggradients,60,1.52,51.8,Warm
+294,294,Dark Wood,855e42,Red,Primary,Sewguide,25.1,50.4,52.2,Warm
+297,297,Grayish Reddish Purple,86627e,Red,Primary,ISCC-NBC System,313,26.9,52.5,Warm
+298,298,Deep Red,87122d,Red,Primary,ISCC-NBC System,346,86.7,52.9,Warm
+300,300,Asparagus,87a96b,Green,Secondary,Sewguide,92.9,36.7,66.3,Warm
+304,304,Deep Purplish Red,881055,Rose,Tertiary,ISCC-NBC System,326,88.2,53.3,Warm
+305,305,Moderate Yellowish Brown,886648,Red,Primary,ISCC-NBC System,28.1,47.1,53.3,Warm
+309,309,Blood Red,8a0707,Red,Primary,Eggradients,0,94.9,54.1,Warm
+311,311,Burnt Umber,8a3324,Red,Primary,Sewguide,8.82,73.9,54.1,Warm
+312,312,Burnt Umber,8a3324,Red,Primary,Eggradients,8.82,73.9,54.1,Warm
+313,313,Strong Brown,8a4416,Red,Primary,ISCC-NBC System,23.8,84.1,54.1,Warm
+314,314,Medium Gray,8a8489,Red,Primary,ISCC-NBC System,310,4.35,54.1,Warm
+315,315,Mouse Grey,8a9a5b,Chartreuse,Tertiary,Sewguide,75.2,40.9,60.4,Warm
+316,316,Dark Red,8b0000,Red,Primary,Eggradients,0,100,54.5,Warm
+317,317,Strong Reddish Brown,8b1c0e,Red,Primary,ISCC-NBC System,6.72,89.9,54.5,Warm
+318,318,Light Olive,8b7d2e,Orange,Secondary,ISCC-NBC System,51,66.9,54.5,Warm
+319,319,Moderate Yellow Green,8b9a5f,Chartreuse,Tertiary,ISCC-NBC System,75.3,38.3,60.4,Warm
+323,323,Carob,8d705b,Red,Primary,Sewguide,25.2,35.5,55.3,Warm
+324,324,Apple Green,8db600,Chartreuse,Tertiary,Sewguide,73.5,100,71.4,Warm
+325,325,Plum,8e4585,Rose,Tertiary,Sewguide,307,51.4,55.7,Warm
+326,326,Light Grayish Olive,8e856f,Red,Primary,ISCC-NBC System,42.6,21.8,55.7,Warm
+329,329,Light Olive Gray,8f877f,Red,Primary,ISCC-NBC System,30,11.2,56.1,Warm
+330,330,Yellow Gray,8f8b66,Red,Primary,Eggradients,54.1,28.7,56.1,Warm
+335,335,Auburn,922724,Red,Primary,Sewguide,1.64,75.3,57.3,Warm
+336,336,Auburn,922724,Red,Primary,Eggradients,1.64,75.3,57.3,Warm
+337,337,Reddish Gray,928186,Red,Primary,ISCC-NBC System,342,11.6,57.3,Warm
+338,338,Light Brownish Gray,928281,Red,Primary,ISCC-NBC System,3.53,11.6,57.3,Warm
+339,339,Cardinal Red,931f21,Red,Primary,Sewguide,359,78.9,57.6,Warm
+342,342,Pistachio Green,93c572,Green,Secondary,Sewguide,96.1,42.1,77.3,Warm
+343,343,Parrot Green,93dc69,Chartreuse,Tertiary,Sewguide,98.1,52.3,86.3,Warm
+345,345,Grayish Purplish Red,945c73,Red,Primary,ISCC-NBC System,335,37.8,58,Warm
+348,348,Chestnut,954535,Red,Primary,Sewguide,10,64.4,58.4,Warm
+349,349,Chestnut,954535,Red,Primary,Eggradients,10,64.4,58.4,Warm
+350,350,Carmine,960018,Red,Primary,Sewguide,350,100,58.8,Warm
+351,351,Coconut,96513e,Red,Primary,Sewguide,13,58.7,58.8,Warm
+352,352,Moderate Reddish Purple,965888,Rose,Tertiary,ISCC-NBC System,314,41.3,58.8,Warm
+353,353,Grayish Yellow Green,979a85,Green,Secondary,ISCC-NBC System,68.6,13.6,60.4,Warm
+354,354,Candy,981815,Red,Primary,Sewguide,1.37,86.2,59.6,Warm
+355,355,Grayish Red,985d62,Red,Primary,ISCC-NBC System,355,38.8,59.6,Warm
+358,358,Crimson Red,990000,Red,Primary,Sewguide,0,100,60,Warm
+359,359,Cherry,990f02,Red,Primary,Sewguide,5.17,98.7,60,Warm
+362,362,Light Olive Brown,997736,Orange,Secondary,ISCC-NBC System,39.4,64.7,60,Warm
+363,363,Light Grayish Brown,997f75,Red,Primary,ISCC-NBC System,16.7,23.5,60,Warm
+367,367,Yellow Green,9acd32,Chartreuse,Tertiary,Eggradients,79.7,75.6,80.4,Warm
+368,368,Rust,9b111e,Red,Primary,Sewguide,354,89,60.8,Warm
+369,369,Dirt Brown,9b7653,Red,Primary,Sewguide,29.2,46.5,60.8,Warm
+372,372,Japanese Red,9d2933,Red,Primary,Sewguide,355,73.9,61.6,Warm
+373,373,Ruby,9e111b,Red,Primary,Sewguide,356,89.2,62,Warm
+374,374,Strong Yellowish Brown,9e671d,Orange,Secondary,ISCC-NBC System,34.4,81.6,62,Warm
+375,375,Light Grayish Reddish Brown,9e7f7a,Red,Primary,ISCC-NBC System,8.33,22.8,62,Warm
+376,376,Dark Greenish Yellow,9e953c,Orange,Secondary,ISCC-NBC System,54.5,62,62,Warm
+378,378,Cochineal,9f4032,Red,Primary,Sewguide,7.71,68.6,62.4,Warm
+379,379,Leaf Brown,9f6442,Red,Primary,Sewguide,21.9,58.5,62.4,Warm
+380,380,Beaver,9f8170,Red,Primary,Sewguide,21.7,29.6,62.4,Warm
+381,381,Nile Green,9fa68b,Green,Secondary,Sewguide,75.6,16.3,65.1,Warm
+382,382,Citron,9fa915,Chartreuse,Tertiary,Sewguide,64.1,87.6,66.3,Warm
+383,383,Sienna,a0522d,Red,Primary,Eggradients,19.3,71.9,62.7,Warm
+384,384,Chameleon,a0ae73,Chartreuse,Tertiary,Sewguide,74.2,33.9,68.2,Warm
+385,385,Tomato Red,a12312,Red,Primary,Sewguide,7.13,88.8,63.1,Warm
+386,386,Dark Reddish Orange,a2402b,Red,Primary,ISCC-NBC System,10.6,73.5,63.5,Warm
+387,387,Deep Greenish Yellow,a29812,Orange,Secondary,ISCC-NBC System,55.8,88.9,63.5,Warm
+389,389,Eau De Nil,a4b887,Green,Secondary,Sewguide,84.5,26.6,72.2,Warm
+392,392,Pomegranate,a61a1d,Red,Primary,Sewguide,359,84.3,65.1,Warm
+393,393,Cafe Au Lait,a67b5b,Red,Primary,Sewguide,25.6,45.2,65.1,Warm
+396,396,Strong Reddish Purple,a74994,Rose,Tertiary,ISCC-NBC System,312,56.3,65.5,Warm
+399,399,Vivid Yellow Green,a7dc26,Chartreuse,Tertiary,ISCC-NBC System,77.5,82.7,86.3,Warm
+400,400,Rouge,a94064,Red,Primary,Sewguide,339,62.1,66.3,Warm
+401,401,Rouge,a94064,Red,Primary,Eggradients,339,62.1,66.3,Warm
+402,402,Dark Grayish Yellow,a99066,Orange,Secondary,ISCC-NBC System,37.6,39.6,66.3,Warm
+405,405,Moderate Purplish Red,ab4b74,Red,Primary,ISCC-NBC System,334,56.1,67.1,Warm
+406,406,Light Reddish Brown,ac7a73,Red,Primary,ISCC-NBC System,7.37,33.1,67.5,Warm
+407,407,Currant,ad3d3c,Red,Primary,Sewguide,0.531,65.3,67.8,Warm
+408,408,Light Brown,ad7c63,Red,Primary,ISCC-NBC System,20.3,42.8,67.8,Warm
+409,409,Pale Reddish Purple,ad89a5,Red,Primary,ISCC-NBC System,313,20.8,67.8,Warm
+412,412,Deep Reddish Orange,af3318,Red,Primary,ISCC-NBC System,10.7,86.3,68.6,Warm
+413,413,Henna,af7f29,Orange,Secondary,Sewguide,38.5,76.6,68.6,Warm
+415,415,Ginger,b06500,Orange,Secondary,Sewguide,34.4,100,69,Warm
+416,416,Merry Widow,b06c85,Red,Primary,Sewguide,338,38.6,69,Warm
+417,417,Dark Yellow,b08f42,Orange,Secondary,ISCC-NBC System,42,62.5,69,Warm
+419,419,Moderate Red,b14955,Red,Primary,ISCC-NBC System,353,58.8,69.4,Warm
+420,420,Wild Rose,b18677,Red,Primary,Sewguide,15.5,32.8,69.4,Warm
+421,421,Brownish Orange,b26633,Red,Primary,ISCC-NBC System,24.1,71.3,69.8,Warm
+423,423,Light Grayish Purplish Red,b2879b,Red,Primary,ISCC-NBC System,332,24.2,69.8,Warm
+427,427,Camelian,b31b1b,Red,Primary,Sewguide,0,84.9,70.2,Warm
+428,428,Raspberry,b3446c,Red,Primary,Sewguide,338,62,70.2,Warm
+429,429,Taupe,b38b6d,Red,Primary,Sewguide,25.7,39.1,70.2,Warm
+430,430,Taupe,b38b6d,Red,Primary,Eggradients,25.7,39.1,70.2,Warm
+431,431,Taupe,b38b6d,Red,Primary,Eggradients,25.7,39.1,70.2,Warm
+432,432,Cappuccino,b39f7a,Orange,Secondary,Sewguide,38.9,31.8,70.2,Warm
+433,433,Light Grayish Red,b4888d,Red,Primary,ISCC-NBC System,353,24.4,70.6,Warm
+434,434,Light Grayish Yellowish Brown,b49b8d,Red,Primary,ISCC-NBC System,21.5,21.7,70.6,Warm
+435,435,Cidar,b56727,Orange,Secondary,Sewguide,27,78.5,71,Warm
+436,436,Brass,b5a642,Orange,Secondary,Eggradients,52.2,63.5,71,Warm
+439,439,Rust,b7410e,Red,Primary,Eggradients,18.1,92.3,71.8,Warm
+440,440,Opera Mauve,b784a7,Rose,Tertiary,Sewguide,319,27.9,71.8,Warm
+441,441,French Grey,b7b4a1,Red,Primary,Sewguide,51.8,12,71.8,Warm
+444,444,Strong Purplish Red,b83773,Rose,Tertiary,ISCC-NBC System,332,70.1,72.2,Warm
+445,445,Copper,b87333,Orange,Secondary,Sewguide,28.9,72.3,72.2,Warm
+446,446,Copper,b87333,Orange,Secondary,Eggradients,28.9,72.3,72.2,Warm
+447,447,Deep Yellow,b88f16,Orange,Secondary,ISCC-NBC System,44.8,88,72.2,Warm
+449,449,Grayish Reddish Orange,b97565,Red,Primary,ISCC-NBC System,11.4,45.4,72.5,Warm
+450,450,Brown Sugar,b98e63,Orange,Secondary,Sewguide,30,46.5,72.5,Warm
+451,451,Briar Rose,ba7481,Red,Primary,Sewguide,349,37.6,72.9,Warm
+454,454,Light Reddish Purple,bd80ae,Rose,Tertiary,ISCC-NBC System,315,32.3,74.1,Warm
+455,455,Khaki,bdb76b,Orange,Secondary,Eggradients,55.6,43.4,74.1,Warm
+457,457,Grayish Greenish Yellow,beb584,Orange,Secondary,ISCC-NBC System,50.7,30.5,74.5,Warm
+459,459,Strong Red,bf344b,Red,Primary,ISCC-NBC System,350,72.8,74.9,Warm
+460,460,Mahogany,c04000,Red,Primary,Eggradients,20,100,75.3,Warm
+461,461,Old Rose,c08081,Red,Primary,Sewguide,359,33.3,75.3,Warm
+462,462,Moderate Greenish Yellow,c0b55e,Orange,Secondary,ISCC-NBC System,53.3,51,75.3,Warm
+464,464,Camel,c19a6b,Orange,Secondary,Sewguide,32.8,44.6,75.7,Warm
+465,465,Wood Brown,c19a6b,Orange,Secondary,Sewguide,32.8,44.6,75.7,Warm
+466,466,Deep Orange,c26012,Orange,Secondary,ISCC-NBC System,26.6,90.7,76.1,Warm
+467,467,Dusty Rose,c28285,Red,Primary,Sewguide,357,33,76.1,Warm
+468,468,Ecru,c2b280,Orange,Secondary,Sewguide,45.5,34,76.1,Warm
+469,469,Sand,c2b280,Orange,Secondary,Sewguide,45.5,34,76.1,Warm
+470,470,Ecru,c2b280,Orange,Secondary,Eggradients,45.5,34,76.1,Warm
+471,471,Ecru,c2b280,Orange,Secondary,Eggradients,45.5,34,76.1,Warm
+473,473,Dark Orange Yellow,c38639,Orange,Secondary,ISCC-NBC System,33.5,70.8,76.5,Warm
+474,474,Khakhi,c3b091,Orange,Secondary,Sewguide,37.2,25.6,76.5,Warm
+477,477,Brilliant Yellow Green,c3df69,Chartreuse,Tertiary,ISCC-NBC System,74.2,52.9,87.5,Warm
+478,478,Light Yellowish Brown,c49a74,Orange,Secondary,ISCC-NBC System,28.5,40.8,76.9,Warm
+479,479,Butterscotch,c4a34e,Orange,Secondary,Sewguide,43.2,60.2,76.9,Warm
+480,480,Strong Greenish Yellow,c4b827,Orange,Secondary,ISCC-NBC System,55.4,80.1,76.9,Warm
+482,482,Mustard Yellow,c54b8c,Rose,Tertiary,Sewguide,328,61.9,77.3,Warm
+483,483,Dark Pink,c5808a,Red,Primary,ISCC-NBC System,351,35,77.3,Warm
+485,485,Very Light Yellowish Green,c5edc4,Green,Secondary,ISCC-NBC System,119,17.3,92.9,Warm
+486,486,Dark Purplish Pink,c67d9d,Red,Primary,ISCC-NBC System,334,36.9,77.6,Warm
+487,487,Brown Bread,c68958,Orange,Secondary,Sewguide,26.7,55.6,77.6,Warm
+488,488,Yellowish Gray,c6b9b1,Red,Primary,ISCC-NBC System,22.9,10.6,77.6,Warm
+489,489,Poppy Red,c73d32,Red,Primary,Sewguide,4.43,74.9,78,Warm
+490,490,Grayish Purplish Pink,c7a3b9,Red,Primary,ISCC-NBC System,323,18.1,78,Warm
+491,491,Pinkish Gray,c7b6bd,Red,Primary,ISCC-NBC System,335,8.54,78,Warm
+493,493,Venetian Red,c80815,Red,Primary,Sewguide,356,96,78.4,Warm
+494,494,Grayish Yellow,c8b18b,Orange,Secondary,ISCC-NBC System,37.4,30.5,78.4,Warm
+495,495,Dark Yellowish Pink,c9807e,Red,Primary,ISCC-NBC System,1.6,37.3,78.8,Warm
+498,498,Fuchsia,ca2c92,Rose,Tertiary,Eggradients,321,78.2,79.2,Warm
+499,499,Willow Green,cad7c5,Green,Secondary,Sewguide,103,8.37,84.3,Warm
+500,500,Grayish Yellowish Pink,cbacac,Red,Primary,ISCC-NBC System,0,15.3,79.6,Warm
+501,501,Grayish Pink,cbadb7,Red,Primary,ISCC-NBC System,340,14.8,79.6,Warm
+502,502,Brownish Pink,cbafa7,Red,Primary,ISCC-NBC System,13.3,17.7,79.6,Warm
+503,503,Burnt Orange,cc5500,Orange,Secondary,Sewguide,25,100,80,Warm
+504,504,Ochre,cc7722,Orange,Secondary,Sewguide,30,83.3,80,Warm
+505,505,Ochre,cc7722,Orange,Secondary,Eggradients,30,83.3,80,Warm
+506,506,Puce,cc8899,Red,Primary,Sewguide,345,33.3,80,Warm
+507,507,Tawney,cd5700,Orange,Secondary,Sewguide,25.5,100,80.4,Warm
+508,508,Tawny,cd5700,Orange,Secondary,Eggradients,25.5,100,80.4,Warm
+509,509,Indian Red,cd5c5c,Red,Primary,Sewguide,0,55.1,80.4,Warm
+510,510,Moderate Reddish Orange,cd6952,Red,Primary,ISCC-NBC System,11.2,60,80.4,Warm
+511,511,Bronze,cd7f32,Orange,Secondary,Sewguide,29.8,75.6,80.4,Warm
+512,512,Bronze,cd7f32,Orange,Secondary,Eggradients,29.8,75.6,80.4,Warm
+514,514,Light Yellow Green,cedb9f,Chartreuse,Tertiary,ISCC-NBC System,73,27.4,85.9,Warm
+515,515,Old Gold,cfb53b,Orange,Secondary,Sewguide,49.5,71.5,81.2,Warm
+516,516,Deep Orange Yellow,d08511,Orange,Secondary,ISCC-NBC System,36.4,91.8,81.6,Warm
+518,518,Parchment,d0c8b0,Orange,Secondary,Sewguide,45,15.4,81.6,Warm
+519,519,Cinnamon,d2691e,Orange,Secondary,Sewguide,25,85.7,82.4,Warm
+520,520,Moderate Yellow,d2af63,Orange,Secondary,ISCC-NBC System,41.1,52.9,82.4,Warm
+521,521,Tan,d2b48c,Orange,Secondary,Sewguide,34.3,33.3,82.4,Warm
+522,522,Tan,d2b48c,Orange,Secondary,Eggradients,34.3,33.3,82.4,Warm
+523,523,Gold,d3ae3b,Orange,Secondary,Sewguide,45.4,72,82.7,Warm
+524,524,Vivid Reddish Purple,d429b9,Rose,Tertiary,ISCC-NBC System,309,80.7,83.1,Warm
+525,525,Wild Orchid,d470a2,Rose,Tertiary,Sewguide,330,47.2,83.1,Warm
+526,526,Metallic Gold,d4af37,Orange,Secondary,Eggradients,45.9,74.1,83.1,Warm
+527,527,Vivid Red,d51c3c,Red,Primary,ISCC-NBC System,350,86.9,83.5,Warm
+528,528,Strawberry Red,d53032,Red,Primary,Sewguide,359,77.5,83.5,Warm
+529,529,Pale Yellow Green,d7d7c1,Orange,Secondary,ISCC-NBC System,60,10.2,84.3,Warm
+531,531,Vermilion,d9381e,Red,Primary,Sewguide,8.34,86.2,85.1,Warm
+532,532,Strong Yellow,d9ae2f,Orange,Secondary,ISCC-NBC System,44.8,78.3,85.1,Warm
+533,533,Orchid,da70d6,Rose,Tertiary,Sewguide,302,48.6,85.5,Warm
+534,534,Goldenrod,daa520,Orange,Secondary,Eggradients,42.9,85.3,85.5,Warm
+535,535,Strong Reddish Orange,db5d3b,Red,Primary,ISCC-NBC System,12.8,73.1,85.9,Warm
+536,536,Timberwolf,dbd7d2,Red,Primary,Eggradients,33.3,4.11,85.9,Warm
+537,537,Absinthe,dbeeb3,Chartreuse,Tertiary,Sewguide,79.3,24.8,93.3,Warm
+538,538,Vivid Purplish Red,dd2388,Rose,Tertiary,ISCC-NBC System,327,84.2,86.7,Warm
+539,539,Blush,de5d83,Red,Primary,Sewguide,342,58.1,87.1,Warm
+540,540,Blush,de5d83,Red,Primary,Eggradients,342,58.1,87.1,Warm
+541,541,Moderate Orange,de8d5c,Orange,Secondary,ISCC-NBC System,22.6,58.6,87.1,Warm
+542,542,Moderate Purplish Pink,de98bf,Rose,Tertiary,ISCC-NBC System,327,31.5,87.1,Warm
+543,543,Pearl Grey,dee2d9,Green,Secondary,Sewguide,86.7,3.98,88.6,Warm
+544,544,Deep Purplish Pink,df6aac,Rose,Tertiary,ISCC-NBC System,326,52.5,87.5,Warm
+547,547,Chartreuse,dff000,Yellow,Primary,Sewguide,64.2,100,94.1,Warm
+548,548,Dusty Pink,e097ac,Red,Primary,Sewguide,343,32.6,87.8,Warm
+551,551,Chalk White,e0dbd1,Red,Primary,Sewguide,40,6.7,87.8,Warm
+553,553,Mustard Yellow,e1ad01,Orange,Secondary,Eggradients,46.1,99.6,88.2,Warm
+554,554,Beige,e1c699,Orange,Secondary,Sewguide,37.5,32,88.2,Warm
+556,556,Claire De Lune,e1ebde,Green,Secondary,Sewguide,106,5.53,92.2,Warm
+557,557,Bright Orange,e24c00,Orange,Secondary,Eggradients,20.2,100,88.6,Warm
+558,558,Flame,e25822,Red,Primary,Sewguide,16.9,85,88.6,Warm
+559,559,Terracotta,e2725b,Red,Primary,Sewguide,10.2,59.7,88.6,Warm
+560,560,Moderate Pink,e2a3ae,Red,Primary,ISCC-NBC System,350,27.9,88.6,Warm
+561,561,Moderate Yellowish Pink,e2a698,Red,Primary,ISCC-NBC System,11.4,32.7,88.6,Warm
+562,562,Midnight Blue,e4007c,Rose,Tertiary,Sewguide,327,100,89.4,Warm
+564,564,Citrine,e4d008,Yellow,Primary,Eggradients,54.5,96.5,89.4,Warm
+565,565,Citrine,e4d009,Yellow,Primary,Sewguide,54.5,96.1,89.4,Warm
+566,566,Straw,e4d96f,Orange,Secondary,Sewguide,54.4,51.3,89.4,Warm
+567,567,Straw,e4d96f,Orange,Secondary,Eggradients,54.4,51.3,89.4,Warm
+568,568,Amaranth,e52b50,Red,Primary,Sewguide,348,81.2,89.8,Warm
+569,569,Fawn,e5aa70,Orange,Secondary,Sewguide,29.7,51.1,89.8,Warm
+570,570,Platinum,e5e4e2,Red,Primary,Sewguide,40,1.31,89.8,Warm
+571,571,Platinum,e5e4e2,Red,Primary,Eggradients,40,1.31,89.8,Warm
+572,572,Deep Pink,e66980,Red,Primary,ISCC-NBC System,349,54.3,90.2,Warm
+573,573,Dawn Pink,e696cd,Rose,Tertiary,Sewguide,319,34.8,90.2,Warm
+574,574,Ivory,e6d690,Orange,Secondary,Sewguide,48.8,37.4,90.2,Warm
+575,575,Pale Greenish Yellow,e6dcab,Orange,Secondary,ISCC-NBC System,49.8,25.7,90.2,Warm
+578,578,Dark Pink,e75480,Rose,Tertiary,Eggradients,342,63.6,90.6,Warm
+579,579,Bird Of Paradise,e77069,Red,Primary,Sewguide,3.33,54.5,90.6,Warm
+580,580,Moderate Orange Yellow,e7a75d,Orange,Secondary,ISCC-NBC System,32.2,59.7,90.6,Warm
+582,582,Vivid Reddish Orange,e83b1b,Red,Primary,ISCC-NBC System,9.37,88.4,91,Warm
+583,583,Fading Rose,e8c0c8,Red,Primary,Sewguide,348,17.2,91,Warm
+584,584,Chamoise,e8cd9a,Orange,Secondary,Sewguide,39.2,33.6,91,Warm
+585,585,Tomato-Cherry,e94b3c,Red,Primary,Sewguide,5.2,74.2,91.4,Warm
+586,586,Burnt Sienna,e97451,Red,Primary,Sewguide,13.8,65.2,91.4,Warm
+587,587,Burnt Sienna,e97451,Red,Primary,Eggradients,13.8,65.2,91.4,Warm
+588,588,Brilliant Greenish Yellow,e9dc55,Yellow,Primary,ISCC-NBC System,54.7,63.5,91.4,Warm
+589,589,Light Greenish Yellow,e9dd8a,Orange,Secondary,ISCC-NBC System,52.4,40.8,91.4,Warm
+590,590,Strong Orange,ea8127,Orange,Secondary,ISCC-NBC System,27.7,83.3,91.8,Warm
+591,591,Oyster White,eae6ca,Orange,Secondary,Sewguide,52.5,13.7,91.8,Warm
+592,592,Marigold,eba832,Orange,Secondary,Sewguide,38.3,78.7,92.2,Warm
+593,593,Marigold,eba832,Orange,Secondary,Eggradients,38.3,78.7,92.2,Warm
+594,594,Pale Purplish Pink,ebc8df,Rose,Tertiary,ISCC-NBC System,321,14.9,92.2,Warm
+595,595,Vivid Greenish Yellow,ebdd21,Yellow,Primary,ISCC-NBC System,55.8,86,92.2,Warm
+597,597,Cerise,ec3b83,Rose,Tertiary,Sewguide,336,75,92.5,Warm
+598,598,Persimmon,ec5800,Orange,Secondary,Eggradients,22.4,100,92.5,Warm
+599,599,Blond,ecd5a7,Orange,Secondary,Sewguide,40,29.2,92.5,Warm
+600,600,Buttercup Yellow,ecdc9c,Orange,Secondary,Sewguide,48,33.9,92.5,Warm
+601,601,Imperial Red,ed2939,Red,Primary,Sewguide,355,82.7,92.9,Warm
+602,602,Sulfur Yellow,edff21,Yellow,Primary,Sewguide,64.9,87.1,100,Warm
+603,603,Carrot,ee7215,Orange,Secondary,Sewguide,25.7,91.2,93.3,Warm
+604,604,Dark Orange,ee7600,Orange,Secondary,Eggradients,29.7,100,93.3,Warm
+605,605,Pale Orange Yellow,eec6a6,Orange,Secondary,ISCC-NBC System,26.7,30.3,93.3,Warm
+606,606,Flax,eedc82,Orange,Secondary,Sewguide,50,45.4,93.3,Warm
+607,607,Flax,eedc82,Orange,Secondary,Eggradients,50,45.4,93.3,Warm
+608,608,Flax,eedc82,Orange,Secondary,Eggradients,50,45.4,93.3,Warm
+609,609,Yellowish White,eedfda,Red,Primary,ISCC-NBC System,15,8.4,93.3,Warm
+610,610,Deep Yellowish Pink,ef6366,Red,Primary,ISCC-NBC System,359,58.6,93.7,Warm
+611,611,Biscuit,efcca2,Orange,Secondary,Sewguide,32.7,32.2,93.7,Warm
+612,612,Pale Pink,efd1dc,Rose,Tertiary,ISCC-NBC System,338,12.6,93.7,Warm
+613,613,Pale Yellow,efd7b2,Orange,Secondary,ISCC-NBC System,36.4,25.5,93.7,Warm
+614,614,Pinkish White,efdde5,Red,Primary,ISCC-NBC System,333,7.53,93.7,Warm
+615,615,Bamboo,efebd6,Orange,Secondary,Sewguide,50.4,10.5,93.7,Warm
+616,616,Strong Orange Yellow,f0a121,Orange,Secondary,ISCC-NBC System,37.1,86.2,94.1,Warm
+617,617,Buff,f0dc82,Orange,Secondary,Sewguide,49.1,45.8,94.1,Warm
+618,618,Buff,f0dc82,Orange,Secondary,Eggradients,49.1,45.8,94.1,Warm
+619,619,Dandelion,f0e130,Yellow,Primary,Sewguide,55.3,80,94.1,Warm
+620,620,Dandelion,f0e130,Yellow,Primary,Eggradients,55.3,80,94.1,Warm
+621,621,Almond,f0e4ce,Orange,Secondary,Sewguide,38.8,14.2,94.1,Warm
+622,622,Egg Shell,f0ead6,Orange,Secondary,Sewguide,46.2,10.8,94.1,Warm
+625,625,Vivid Yellow,f1bf15,Orange,Secondary,ISCC-NBC System,46.4,91.3,94.5,Warm
+626,626,Pale Yellowish Pink,f1d3d1,Red,Primary,ISCC-NBC System,3.75,13.3,94.5,Warm
+627,627,Magnolia,f1e1cc,Orange,Secondary,Eggradients,34.1,15.4,94.5,Warm
+628,628,Punch,f25278,Red,Primary,Sewguide,346,66.1,94.9,Warm
+629,629,Tangerine,f28500,Orange,Secondary,Sewguide,33,100,94.9,Warm
+630,630,Tangerine,f28500,Orange,Secondary,Eggradients,33,100,94.9,Warm
+631,631,Orchid Pink,f2bdcd,Red,Primary,Sewguide,342,21.9,94.9,Warm
+632,632,Mandarin,f37a48,Orange,Secondary,Sewguide,17.5,70.4,95.3,Warm
+633,633,Geranium Pink,f390a4,Red,Primary,Sewguide,348,40.7,95.3,Warm
+634,634,Alabaster,f3f0e9,Orange,Secondary,Sewguide,42,4.12,95.3,Warm
+635,635,Strong Purplish Pink,f483cd,Rose,Tertiary,ISCC-NBC System,321,46.3,95.7,Warm
+636,636,Strong Pink,f48fa0,Red,Primary,ISCC-NBC System,350,41.4,95.7,Warm
+637,637,Baby Pink,f4c2c2,Red,Primary,Sewguide,0,20.5,95.7,Warm
+638,638,Tea Rose,f4c2c2,Red,Primary,Sewguide,0,20.5,95.7,Warm
+639,639,Baby Pink,f4c2c2,Red,Primary,Eggradients,0,20.5,95.7,Warm
+640,640,Saffron Yellow,f4c430,Orange,Secondary,Eggradients,45.3,80.3,95.7,Warm
+641,641,Joquil Yellow,f4ca16,Yellow,Primary,Sewguide,48.6,91,95.7,Warm
+642,642,Light Yellow,f4d284,Orange,Secondary,ISCC-NBC System,41.8,45.9,95.7,Warm
+643,643,Magnolia,f4e9d8,Orange,Secondary,Sewguide,36.4,11.5,95.7,Warm
+644,644,Cyclamen,f56fa1,Rose,Tertiary,Sewguide,338,54.7,96.1,Warm
+645,645,Strong Yellowish Pink,f59080,Red,Primary,ISCC-NBC System,8.21,47.8,96.1,Warm
+646,646,Light Purplish Pink,f5b2db,Rose,Tertiary,ISCC-NBC System,323,27.3,96.1,Warm
+647,647,Marshmallow,f5e4e4,Red,Primary,Sewguide,0,6.94,96.1,Warm
+648,648,Beige,f5f5dc,Orange,Secondary,Eggradients,60,10.2,96.1,Warm
+651,651,French Rose,f64a8a,Rose,Tertiary,Sewguide,338,69.9,96.5,Warm
+652,652,Rose Pink,f653a6,Rose,Tertiary,Sewguide,329,66.3,96.5,Warm
+653,653,Spanish Yellow,f6b511,Orange,Secondary,Sewguide,43,93.1,96.5,Warm
+654,654,Vivid Orange,f7760b,Orange,Secondary,ISCC-NBC System,27.2,95.5,96.9,Warm
+655,655,Rose Quartz,f7cac9,Red,Primary,Eggradients,1.3,18.6,96.9,Warm
+656,656,Brilliant Yellow,f7ce50,Orange,Secondary,ISCC-NBC System,45.3,67.6,96.9,Warm
+657,657,Hot Pink,f81894,Rose,Tertiary,Sewguide,327,90.3,97.3,Warm
+658,658,Coral Pink,f88379,Red,Primary,Sewguide,4.72,51.2,97.3,Warm
+659,659,Coral,f88379,Red,Primary,Eggradients,4.72,51.2,97.3,Warm
+660,660,Coral,f88379,Red,Primary,Eggradients,4.72,51.2,97.3,Warm
+661,661,Light Pink,f8c3ce,Red,Primary,ISCC-NBC System,348,21.4,97.3,Warm
+662,662,Light Yellowish Pink,f8c4b6,Red,Primary,ISCC-NBC System,12.7,26.6,97.3,Warm
+663,663,Champagne,f8e7ce,Orange,Secondary,Sewguide,35.7,16.9,97.3,Warm
+664,664,Begonia,fa6e79,Red,Primary,Sewguide,355,56,98,Warm
+665,665,Salmon,fa8072,Red,Primary,Sewguide,6.18,54.4,98,Warm
+666,666,Linen,faf0e6,Orange,Secondary,Eggradients,30,8,98,Warm
+667,667,Light Orange,fbaf82,Orange,Secondary,ISCC-NBC System,22.3,48.2,98.4,Warm
+668,668,Apricot,fbceb1,Orange,Secondary,Sewguide,23.5,29.5,98.4,Warm
+669,669,Apricot,fbceb1,Orange,Secondary,Eggradients,23.5,29.5,98.4,Warm
+670,670,Apricot,fbceb1,Orange,Secondary,Eggradients,23.5,29.5,98.4,Warm
+671,671,Maize,fbec5d,Yellow,Primary,Sewguide,54.3,62.9,98.4,Warm
+672,672,Strawberry Pink,fc5a8d,Rose,Tertiary,Sewguide,341,64.3,98.8,Warm
+673,673,Nacarat,fc5d5d,Red,Primary,Sewguide,0,63.1,98.8,Warm
+674,674,Watermelon Pink,fc6c85,Red,Primary,Sewguide,350,57.1,98.8,Warm
+675,675,Watermelon,fc6c85,Red,Primary,Eggradients,350,57.1,98.8,Warm
+676,676,Flamengo Pink,fc8eac,Rose,Tertiary,Sewguide,344,43.7,98.8,Warm
+677,677,Flamingo Pink,fc8eac,Rose,Tertiary,Eggradients,344,43.7,98.8,Warm
+678,678,Peach,fc9483,Red,Primary,Sewguide,8.43,48,98.8,Warm
+679,679,Brilliant Purplish Pink,fca1e7,Rose,Tertiary,ISCC-NBC System,314,36.1,98.8,Warm
+680,680,Light Orange Yellow,fcc27c,Orange,Secondary,ISCC-NBC System,32.8,50.8,98.8,Warm
+681,681,Primrose Yellow,fcce45,Orange,Secondary,Sewguide,44.9,72.6,98.8,Warm
+682,682,Vivid Pink,fd7992,Red,Primary,ISCC-NBC System,349,52.2,99.2,Warm
+683,683,Vivid Yellowish Pink,fd7e5d,Red,Primary,ISCC-NBC System,12.4,63.2,99.2,Warm
+684,684,Cantaloupe,fda172,Orange,Secondary,Sewguide,20.3,54.9,99.2,Warm
+685,685,Blush Pink,fe828c,Red,Primary,Sewguide,355,48.8,99.6,Warm
+686,686,Paille,fee347,Yellow,Primary,Sewguide,51.1,72,99.6,Warm
+687,687,Red,ff0000,Red,Primary,Eggradients,0,100,100,Warm
+688,688,Rose,ff007f,Rose,Tertiary,Sewguide,330,100,100,Warm
+693,693,Deep Pink,ff1493,Rose,Tertiary,Eggradients,328,92.2,100,Warm
+694,694,Scarlet,ff2400,Red,Primary,Sewguide,8.47,100,100,Warm
+695,695,Scarlet,ff2400,Red,Primary,Eggradients,8.47,100,100,Warm
+696,696,Coquelicot,ff3800,Red,Primary,Sewguide,13.2,100,100,Warm
+697,697,Coral Red,ff4040,Red,Primary,Sewguide,0,74.9,100,Warm
+698,698,Orange Red,ff4500,Orange,Secondary,Sewguide,16.2,100,100,Warm
+699,699,Orange Red,ff4500,Orange,Secondary,Eggradients,16.2,100,100,Warm
+700,700,International Orange,ff4f00,Orange,Secondary,Eggradients,18.6,100,100,Warm
+701,701,Neon Orange,ff6700,Orange,Secondary,Eggradients,24.2,100,100,Warm
+702,702,Safety Orange,ff6700,Orange,Secondary,Eggradients,24.2,100,100,Warm
+703,703,Pink,ff69b4,Rose,Tertiary,Eggradients,330,58.8,100,Warm
+704,704,Hot Pink,ff69b4,Rose,Tertiary,Eggradients,330,58.8,100,Warm
+705,705,Pumpkin,ff7417,Orange,Secondary,Sewguide,24.1,91,100,Warm
+707,707,Saffron,ff9933,Orange,Secondary,Sewguide,30,80,100,Warm
+708,708,Salmon,ff9999,Red,Primary,Eggradients,0,40,100,Warm
+709,709,Light Orange,ffa500,Orange,Secondary,Eggradients,38.8,100,100,Warm
+710,710,Carnation Pink,ffa6c9,Rose,Tertiary,Sewguide,336,34.9,100,Warm
+711,711,Pastel Orange,ffb347,Orange,Secondary,Eggradients,35.2,72.2,100,Warm
+712,712,Light Pink,ffb6c1,Red,Primary,Eggradients,351,28.6,100,Warm
+713,713,Cotton Candy,ffbcd9,Rose,Tertiary,Sewguide,334,26.3,100,Warm
+714,714,Brilliant Orange Yellow,ffbe50,Orange,Secondary,ISCC-NBC System,37.7,68.6,100,Warm
+715,715,Amber,ffbf00,Orange,Secondary,Sewguide,44.9,100,100,Warm
+716,716,Topaz,ffc87c,Orange,Secondary,Sewguide,34.8,51.4,100,Warm
+717,717,Pastel Pink,ffd1dc,Rose,Tertiary,Eggradients,346,18,100,Warm
+718,718,Caramel,ffd59a,Orange,Secondary,Sewguide,35,39.6,100,Warm
+719,719,Sweet Pea Pink,ffd9d9,Red,Primary,Sewguide,0,14.9,100,Warm
+720,720,Myrtle Green,ffdb58,Yellow,Primary,Sewguide,47.1,65.5,100,Warm
+721,721,Navajo White,ffdead,Orange,Secondary,Eggradients,35.9,32.2,100,Warm
+722,722,Golden Yellow,ffdf00,Yellow,Primary,Eggradients,52.5,100,100,Warm
+723,723,Peach,ffe5b4,Orange,Secondary,Eggradients,39.2,29.4,100,Warm
+724,724,Peach,ffe5b4,Orange,Secondary,Eggradients,39.2,29.4,100,Warm
+725,725,Flesh Pink,ffe9d1,Orange,Secondary,Sewguide,31.3,18,100,Warm
+726,726,Canary Yellow,ffef00,Yellow,Primary,Sewguide,56.2,100,100,Warm
+727,727,Canary Yellow,ffef00,Yellow,Primary,Eggradients,56.2,100,100,Warm
+728,728,Lavender Blush,fff0f5,Rose,Tertiary,Eggradients,340,5.88,100,Warm
+729,729,Lemon Yellow,fff44f,Yellow,Primary,Sewguide,56.2,69,100,Warm
+730,730,Lemon Yellow,fff44f,Yellow,Primary,Eggradients,56.2,69,100,Warm
+731,731,Lemon,fff44f,Yellow,Primary,Eggradients,56.2,69,100,Warm
+732,732,Seashell,fff5ee,Orange,Secondary,Eggradients,24.7,6.67,100,Warm
+733,733,Chiffon,fffacd,Yellow,Primary,Eggradients,54,19.6,100,Warm
+734,734,Snow White,fffafa,Red,Primary,Eggradients,0,1.96,100,Warm
+735,735,Yellow,ffff00,Yellow,Primary,Sewguide,60,100,100,Warm
+736,736,Daffodil,ffff31,Yellow,Primary,Sewguide,60,80.8,100,Warm
+737,737,Light Yellow,ffffe0,Yellow,Primary,Eggradients,60,12.2,100,Warm
+738,738,Ivory,fffff0,Yellow,Primary,Eggradients,60,5.88,100,Warm
