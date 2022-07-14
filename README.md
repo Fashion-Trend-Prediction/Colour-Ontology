@@ -29,7 +29,7 @@ Quick access to our ontology RDF/Turtle file: <a href="files/ontology.ttl" downl
 
 **Based on this ontology model, a paper has been submitted to the ISWC 2022 P&D Track.**
 
-**Abstract** Colour is an important visual cue in fashion. Currently, computer vision is being applied to fashion much more than before. The lack of a consistent, comprehensive vocabulary and relevant relationships to capture expert knowledge in fashion colour can severely hamper the work of computer researchers, thus hindering the development of fashion trend prediction. In this study, we propose an ontology that maps colour more closely to how they are viewed and used in the fashion world. Following W3C Semantic Web standards, it captures relevant concepts of colour in the fashion industry, including the basic vocabulary of colours with its classifications, attributes, and important relationships.
+**Abstract** Colour is an important visual cue in fashion. Increasingly, machine learning approaches are being applied to fashion trend prediction. The lack of a consistent, comprehensive vocabulary and related concepts to capture expert knowledge in fashion colour makes it difficult to achieve meaningful and efficient predictions. In this study, we propose an ontology that maps colour more closely to how they are viewed and used in the fashion world. Following W3C Semantic Web standards, the ontology captures relevant concepts of colour in the fashion industry, including the basic vocabulary of colours with its classifications, attributes, and important relationships.
 <div align="center">
   <a href="https://github.com/Fashion-Trend-Prediction/Colour-Ontology">
     <img src="images/CMap.png" alt="CMap" width="1500" height="400">
