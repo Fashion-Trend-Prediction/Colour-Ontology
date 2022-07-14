@@ -81,10 +81,10 @@ Project Link: [https://github.com/Fashion-Trend-Prediction/Colour-Ontology](http
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-[Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+README Template Credit - [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 
-[Webthemez](http://webthemez.com)
+Website Template Credit - [Webthemez](http://webthemez.com)
 
-[Bootstrap](http://getbootstrap.com)
+Website Template Credit - [Bootstrap](http://getbootstrap.com)
 
-[Flaticon](https://www.flaticon.com/search?word=fashion)
+Logo - [Flaticon](https://www.flaticon.com/search?word=fashion)
