@@ -90,4 +90,6 @@ Website Template - [Bootstrap](http://getbootstrap.com)
 
 Logo - [Flaticon](https://www.flaticon.com/search?word=fashion)
 
+Logo - [Free Logo Services](https://www.freelogoservices.com)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
