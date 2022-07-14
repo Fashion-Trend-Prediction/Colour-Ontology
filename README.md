@@ -19,8 +19,9 @@
   </p>
 </div>
 
-
-
+<!-- PAPER -->
+## Paper
+Based on this ontology model, a paper has been submitted to the ISWC 2022 P&D Track.
 
 
 <!-- ABOUT THE PROJECT -->
@@ -88,3 +89,5 @@ Website Template - [Webthemez](http://webthemez.com)
 Website Template - [Bootstrap](http://getbootstrap.com)
 
 Logo - [Flaticon](https://www.flaticon.com/search?word=fashion)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
