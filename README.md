@@ -25,7 +25,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Colour is one of the most important visual features in the fashion industry. Currently, computer vision is being applied to fashion much more than before. When we do a fashion trend prediction, the lack of a consistent and comprehensive vocabulary that captures experts’ knowledge in fashion colours can create significant obstacles for researchers thus hindering the development of fashion trend prediction. In this study, we propose an approach that maps visual features-more closely to how they are thought about and used in the fashion world. We construct an ontology, following W3C Semantic Web standards, that captures the relevant concepts of colour in the fashion industry, including the basic vocabulary of colours along with its classifications, attributes, and important relationships. 
+Colour is an important visual cue in fashion. Currently, computer vision is being applied to fashion much more than before. The lack
+of a consistent, comprehensive vocabulary and relevant relationships to capture expert knowledge in fashion colour can severely hamper the work
+of computer researchers, thus hindering the development of fashion trend prediction. In this study, we propose an ontology that maps colour more
+closely to how they are viewed and used in the fashion world. Following W3C Semantic Web standards, it captures relevant concepts of colour in
+the fashion industry, including the basic vocabulary of colours with its classifications, attributes, and important relationships.
 <div align="center">
   <a href="https://github.com/Fashion-Trend-Prediction/Colour-Ontology">
     <img src="images/CMap.png" alt="CMap" width="1500" height="400">
